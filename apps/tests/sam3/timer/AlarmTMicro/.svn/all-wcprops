@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/AlarmTMicro
+END
+TestAlarmTMicroP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/AlarmTMicro/TestAlarmTMicroP.nc
+END
+TestAlarmTMicroAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/AlarmTMicro/TestAlarmTMicroAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/AlarmTMicro/Makefile
+END

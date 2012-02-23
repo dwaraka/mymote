@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5856/trunk/apps/tests/z1/TestEui
+END
+TestEuiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5856/trunk/apps/tests/z1/TestEui/TestEuiC.nc
+END
+TestEuiAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5856/trunk/apps/tests/z1/TestEui/TestEuiAppC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5856/trunk/apps/tests/z1/TestEui/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5856/trunk/apps/tests/z1/TestEui/Makefile
+END

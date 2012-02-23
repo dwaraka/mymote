@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/SimpleTSL2563
+END
+TSLP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/TSLP.nc
+END
+TestTSLC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/TestTSLC.nc
+END
+TSLC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/TSLC.nc
+END
+TestTSLAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/TestTSLAppC.nc
+END
+tsl2563.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/tsl2563.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/SimpleTSL2563/Makefile
+END

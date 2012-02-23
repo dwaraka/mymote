@@ -1,0 +1,46 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/apps/tests/tkn154/beacon-enabled
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-07-13T12:29:23.716414Z
+5663
+jan.hauer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+TestIndirect
+dir
+
+TestMultihop
+dir
+
+TestData
+dir
+
+TestStartSync
+dir
+
+TestAssociate
+dir
+
+TestGTS
+dir
+

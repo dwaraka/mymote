@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc
+END
+MoteP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc/MoteP.nc
+END
+TwiReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc/TwiReaderP.nc
+END
+MoteAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc/MoteAppC.nc
+END
+TwiReaderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc/TwiReaderC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/twi_pdc/Makefile
+END

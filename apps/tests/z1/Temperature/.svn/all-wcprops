@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Temperature
+END
+TestTmp102C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Temperature/TestTmp102C.nc
+END
+TestTmp102AppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Temperature/TestTmp102AppC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Temperature/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Temperature/Makefile
+END

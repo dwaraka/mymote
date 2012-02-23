@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5763/trunk/apps/tests/z1/TestGPIO
+END
+TestGPIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5763/trunk/apps/tests/z1/TestGPIO/TestGPIOC.nc
+END
+TestGPIOAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5763/trunk/apps/tests/z1/TestGPIO/TestGPIOAppC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5763/trunk/apps/tests/z1/TestGPIO/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5763/trunk/apps/tests/z1/TestGPIO/Makefile
+END

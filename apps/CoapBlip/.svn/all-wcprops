@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5852/trunk/apps/CoapBlip
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5852/trunk/apps/CoapBlip/volumes-stm25p.xml
+END
+tinyos_coap_resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5846/trunk/apps/CoapBlip/tinyos_coap_resources.h
+END
+CoapBlipP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5846/trunk/apps/CoapBlip/CoapBlipP.nc
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5852/trunk/apps/CoapBlip/volumes-at45db.xml
+END
+CoapBlipC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5846/trunk/apps/CoapBlip/CoapBlipC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5617/trunk/apps/CoapBlip/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5846/trunk/apps/CoapBlip/Makefile
+END

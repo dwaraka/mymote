@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/pin/capture
+END
+TestCaptureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/pin/capture/TestCaptureC.nc
+END
+TestCaptureAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/pin/capture/TestCaptureAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/pin/capture/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5584/trunk/apps/tests/TestSerialPrintf
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5456/trunk/apps/tests/TestSerialPrintf/TestAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5584/trunk/apps/tests/TestSerialPrintf/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5456/trunk/apps/tests/TestSerialPrintf/TestP.nc
+END

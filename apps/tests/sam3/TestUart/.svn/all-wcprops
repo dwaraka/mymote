@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5393/trunk/apps/tests/sam3/TestUart
+END
+TestUartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/TestUart/TestUartC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/TestUart/Makefile
+END
+TestUartAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5393/trunk/apps/tests/sam3/TestUart/TestUartAppC.nc
+END

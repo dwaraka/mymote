@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/clock/showSpeed
+END
+ClockSpeedAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/clock/showSpeed/ClockSpeedAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/clock/showSpeed/Makefile
+END
+ClockSpeedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/clock/showSpeed/ClockSpeedC.nc
+END

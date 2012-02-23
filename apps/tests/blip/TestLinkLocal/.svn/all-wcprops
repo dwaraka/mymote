@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5323/trunk/apps/tests/blip/TestLinkLocal
+END
+TestLinkLocalC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5323/trunk/apps/tests/blip/TestLinkLocal/TestLinkLocalC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5323/trunk/apps/tests/blip/TestLinkLocal/README.txt
+END
+TestLinkLocalAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5323/trunk/apps/tests/blip/TestLinkLocal/TestLinkLocalAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5323/trunk/apps/tests/blip/TestLinkLocal/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit
+END
+RadioDriverConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit/RadioDriverConfigP.nc
+END
+TestRadioDriverP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit/TestRadioDriverP.nc
+END
+TestRadioDriverC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit/TestRadioDriverC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5764/trunk/apps/tests/rfxlink/TestTransmit/Makefile
+END

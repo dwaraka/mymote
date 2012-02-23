@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/mpu/TestMpuProtectionSyscall
+END
+TestMpuProtectionSyscallC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/mpu/TestMpuProtectionSyscall/TestMpuProtectionSyscallC.nc
+END
+TestMpuProtectionSyscallAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/mpu/TestMpuProtectionSyscall/TestMpuProtectionSyscallAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/mpu/TestMpuProtectionSyscall/Makefile
+END

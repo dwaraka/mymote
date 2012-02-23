@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5288/trunk/apps/tests/rfxlink/RadioSniffer
+END
+RadioSnifferP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5224/trunk/apps/tests/rfxlink/RadioSniffer/RadioSnifferP.nc
+END
+RadioSnifferC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5288/trunk/apps/tests/rfxlink/RadioSniffer/RadioSnifferC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5224/trunk/apps/tests/rfxlink/RadioSniffer/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Accelerometer/TestADXL345
+END
+TestADXL345C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Accelerometer/TestADXL345/TestADXL345C.nc
+END
+TestADXL345AppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Accelerometer/TestADXL345/TestADXL345AppC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Accelerometer/TestADXL345/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Accelerometer/TestADXL345/Makefile
+END

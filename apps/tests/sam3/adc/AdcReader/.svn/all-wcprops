@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5398/trunk/apps/tests/sam3/adc/AdcReader
+END
+MoteP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5398/trunk/apps/tests/sam3/adc/AdcReader/MoteP.nc
+END
+MoteAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5398/trunk/apps/tests/sam3/adc/AdcReader/MoteAppC.nc
+END
+AdcReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5397/trunk/apps/tests/sam3/adc/AdcReader/AdcReaderP.nc
+END
+AdcReaderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/adc/AdcReader/AdcReaderC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/adc/AdcReader/Makefile
+END

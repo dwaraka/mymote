@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles
+END
+batch_collisions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/batch_collisions.yml
+END
+batch_forwarding.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/batch_forwarding.yml
+END
+generate_batch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/generate_batch.sh
+END
+sample_batch_config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/sample_batch_config.yml
+END
+batch_lpl.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/batch_lpl.yml
+END
+tos_metric.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/tos_metric.yml
+END
+batch_all.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/batch_all.yml
+END
+batch_throughputs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5724/trunk/apps/tests/LinkBench/javasrc/dist-addon/batchfiles/batch_throughputs.yml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/TestBMP085
+END
+TestBMPC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/TestBMP085/TestBMPC.nc
+END
+TestBMPAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/TestBMP085/TestBMPAppC.nc
+END
+bmp085.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/TestBMP085/bmp085.h
+END
+BMP085P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/TestBMP085/BMP085P.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/TestBMP085/README
+END
+BMP085C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5763/trunk/apps/tests/z1/Ziglets/TestBMP085/BMP085C.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5856/trunk/apps/tests/z1/Ziglets/TestBMP085/Makefile
+END

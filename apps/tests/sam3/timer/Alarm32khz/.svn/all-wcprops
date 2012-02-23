@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/Alarm32khz
+END
+TestAlarm32khzAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/Alarm32khz/TestAlarm32khzAppC.nc
+END
+TestAlarm32khzP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/Alarm32khz/TestAlarm32khzP.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/timer/Alarm32khz/Makefile
+END

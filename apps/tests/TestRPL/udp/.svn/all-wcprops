@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5639/trunk/apps/tests/TestRPL/udp
+END
+TestRPLC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5639/trunk/apps/tests/TestRPL/udp/TestRPLC.nc
+END
+TestRPLAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5639/trunk/apps/tests/TestRPL/udp/TestRPLAppC.nc
+END
+LocalIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5629/trunk/apps/tests/TestRPL/udp/LocalIeeeEui64C.nc
+END
+TestRPL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5629/trunk/apps/tests/TestRPL/udp/TestRPL.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5639/trunk/apps/tests/TestRPL/udp/Makefile
+END

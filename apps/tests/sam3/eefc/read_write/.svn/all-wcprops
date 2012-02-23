@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/eefc/read_write
+END
+MoteP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/eefc/read_write/MoteP.nc
+END
+MoteAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/eefc/read_write/MoteAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/eefc/read_write/Makefile
+END

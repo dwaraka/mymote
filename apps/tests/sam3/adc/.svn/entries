@@ -1,0 +1,40 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/apps/tests/sam3/adc
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-02-02T19:42:45.946084Z
+5401
+thomas.schmid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+AdcReaderStream
+dir
+
+AdcReader
+dir
+
+AdcReaderStreamPDC
+dir
+
+AdcReaderNow
+dir
+

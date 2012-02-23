@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753
+END
+TestADE7753C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/TestADE7753C.nc
+END
+TestADE7753AppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/TestADE7753AppC.nc
+END
+SpiConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/SpiConfigC.nc
+END
+TestADE7753.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/TestADE7753.h
+END
+TestADE7753Logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/TestADE7753Logger.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5506/trunk/apps/tests/sam3/TestADE7753/Makefile
+END

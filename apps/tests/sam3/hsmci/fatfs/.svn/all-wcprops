@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/hsmci/fatfs
+END
+MoteP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/hsmci/fatfs/MoteP.nc
+END
+MoteAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/hsmci/fatfs/MoteAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5389/trunk/apps/tests/sam3/hsmci/fatfs/Makefile
+END
