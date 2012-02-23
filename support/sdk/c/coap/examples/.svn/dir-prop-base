@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 68
+Makefile
+coap-client
+coap-server
+coap.out
+file
+filestorage
+key
+tiny
+
+END

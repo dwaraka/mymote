@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/PSHdlcUart
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/PSHdlcUart/TestAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/PSHdlcUart/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/PSHdlcUart/TestP.nc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5551/trunk/tos/platforms/shimmer2/chips/cc2420x
+END
+HplCC2420XInterruptsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5550/trunk/tos/platforms/shimmer2/chips/cc2420x/HplCC2420XInterruptsP.nc
+END
+HplSFDXInterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5550/trunk/tos/platforms/shimmer2/chips/cc2420x/HplSFDXInterruptsC.nc
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5516/trunk/tos/chips/msp430/usart
+END
+Msp430SpiNoDma0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/Msp430SpiNoDma0P.nc
+END
+Msp430SpiNoDma1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/Msp430SpiNoDma1P.nc
+END
+Msp430SpiDma0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3662/trunk/tos/chips/msp430/usart/Msp430SpiDma0P.nc
+END
+Msp430I2C0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/Msp430I2C0P.nc
+END
+Msp430SpiDma1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3662/trunk/tos/chips/msp430/usart/Msp430SpiDma1P.nc
+END
+Msp430Spi0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/Msp430Spi0C.nc
+END
+Msp430I2CConfigure.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/Msp430I2CConfigure.nc
+END
+Msp430Spi1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/Msp430Spi1C.nc
+END
+Msp430I2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430I2CC.nc
+END
+HplMsp430Usart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/HplMsp430Usart0C.nc
+END
+HplMsp430Usart1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/usart/HplMsp430Usart1C.nc
+END
+Msp430SpiNoDmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5516/trunk/tos/chips/msp430/usart/Msp430SpiNoDmaP.nc
+END
+Msp430UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5516/trunk/tos/chips/msp430/usart/Msp430UartP.nc
+END
+Msp430UsartShareP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4172/trunk/tos/chips/msp430/usart/Msp430UsartShareP.nc
+END
+Msp430Uart0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Uart0P.nc
+END
+Msp430Uart1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Uart1P.nc
+END
+Msp430UartConfigure.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/Msp430UartConfigure.nc
+END
+Msp430UsartShare0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430UsartShare0P.nc
+END
+HplMsp430I2C0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5508/trunk/tos/chips/msp430/usart/HplMsp430I2C0P.nc
+END
+HplMsp430I2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/HplMsp430I2C.nc
+END
+HplMsp430I2CInterrupts.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/HplMsp430I2CInterrupts.nc
+END
+Msp430Usart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Usart0C.nc
+END
+Msp430Usart1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Usart1C.nc
+END
+Msp430UsartShare1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430UsartShare1P.nc
+END
+msp430usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4724/trunk/tos/chips/msp430/usart/msp430usart.h
+END
+Msp430I2CP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5516/trunk/tos/chips/msp430/usart/Msp430I2CP.nc
+END
+Msp430SpiConfigure.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/Msp430SpiConfigure.nc
+END
+Msp430SpiDmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5516/trunk/tos/chips/msp430/usart/Msp430SpiDmaP.nc
+END
+Msp430Uart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Uart0C.nc
+END
+Msp430Uart1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3937/trunk/tos/chips/msp430/usart/Msp430Uart1C.nc
+END
+HplMsp430Usart0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5083/trunk/tos/chips/msp430/usart/HplMsp430Usart0P.nc
+END
+HplMsp430Usart.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/HplMsp430Usart.nc
+END
+HplMsp430UsartInterrupts.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/usart/HplMsp430UsartInterrupts.nc
+END
+HplMsp430Usart1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5454/trunk/tos/chips/msp430/usart/HplMsp430Usart1P.nc
+END
+HplMsp430I2C0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/msp430/usart/HplMsp430I2C0C.nc
+END

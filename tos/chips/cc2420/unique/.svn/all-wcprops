@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5697/trunk/tos/chips/cc2420/unique
+END
+UniqueSendP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4141/trunk/tos/chips/cc2420/unique/UniqueSendP.nc
+END
+UniqueSendC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/unique/UniqueSendC.nc
+END
+UniqueReceiveP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5697/trunk/tos/chips/cc2420/unique/UniqueReceiveP.nc
+END
+UniqueReceiveC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/unique/UniqueReceiveC.nc
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5571/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/McuSleepC.nc
+END
+Msp430ClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5571/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430ClockP.nc
+END
+Msp430TimerMicroMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430TimerMicroMapC.nc
+END
+Msp430CounterMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430CounterMicroC.nc
+END
+Msp430TimerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430TimerC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430Timer32khzMapC.nc
+END
+RadioConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/RadioConfig.h
+END
+Msp430Counter32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/Msp430Counter32khzC.nc
+END
+HplCC2420XC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/tmicro/HplCC2420XC.nc
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX
+END
+TimeSyncMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/TimeSyncMessageP.nc
+END
+WideLocalTime.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3691/trunk/tos/platforms/eyesIFX/WideLocalTime.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/ActiveMessageC.nc
+END
+table-crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3087/trunk/tos/platforms/eyesIFX/table-crc.h
+END
+SmclkManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3103/trunk/tos/platforms/eyesIFX/SmclkManagerP.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2898/trunk/tos/platforms/eyesIFX/PlatformSerialC.nc
+END
+ActiveMessageFilterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3582/trunk/tos/platforms/eyesIFX/ActiveMessageFilterC.nc
+END
+LocalTimeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/LocalTimeP.nc
+END
+LplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4284/trunk/tos/platforms/eyesIFX/LplC.nc
+END
+eyesIFXSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3831/trunk/tos/platforms/eyesIFX/eyesIFXSerialP.nc
+END
+PacketStampP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/PacketStampP.nc
+END
+lf-crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3088/trunk/tos/platforms/eyesIFX/lf-crc.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3088/trunk/tos/platforms/eyesIFX/crc.h
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/PlatformLedsC.nc
+END
+.family
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4119/trunk/tos/platforms/eyesIFX/.family
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/TimeSyncMessageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2399/trunk/tos/platforms/eyesIFX/PlatformP.nc
+END
+DummySleepP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4284/trunk/tos/platforms/eyesIFX/DummySleepP.nc
+END
+WhiteBitAccessorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4368/trunk/tos/platforms/eyesIFX/WhiteBitAccessorC.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/LedsP.nc
+END
+SmclkManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3103/trunk/tos/platforms/eyesIFX/SmclkManagerC.nc
+END
+LplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4284/trunk/tos/platforms/eyesIFX/LplP.nc
+END
+RadioDataLinkC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4957/trunk/tos/platforms/eyesIFX/RadioDataLinkC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3095/trunk/tos/platforms/eyesIFX/platform.h
+END
+LocalTimeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/LocalTimeC.nc
+END
+PacketStampC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4234/trunk/tos/platforms/eyesIFX/PacketStampC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/platform_message.h
+END

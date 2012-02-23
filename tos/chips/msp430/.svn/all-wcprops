@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5856/trunk/tos/chips/msp430
+END
+msp430regtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/msp430regtypes.h
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/McuSleepC.nc
+END
+msp430hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5729/trunk/tos/chips/msp430/msp430hardware.h
+END

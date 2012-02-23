@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5417/trunk/tos/chips/cortex/m3/sam3/s/adc
+END
+Sam3sAdcImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/s/adc/Sam3sAdcImplP.nc
+END
+Sam3sAdcClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5397/trunk/tos/chips/cortex/m3/sam3/s/adc/Sam3sAdcClientC.nc
+END
+AdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5400/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcReadStreamClientC.nc
+END
+sam3sadchardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5417/trunk/tos/chips/cortex/m3/sam3/s/adc/sam3sadchardware.h
+END
+AdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5400/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcStreamP.nc
+END
+AdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5398/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcReadClientC.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5398/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcP.nc
+END
+AdcReadNowClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5399/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcReadNowClientC.nc
+END
+AdcStreamPDCP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/s/adc/AdcStreamPDCP.nc
+END
+WireAdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5400/trunk/tos/chips/cortex/m3/sam3/s/adc/WireAdcStreamP.nc
+END
+Sam3sAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/s/adc/Sam3sAdcP.nc
+END
+Sam3sGetAdc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5397/trunk/tos/chips/cortex/m3/sam3/s/adc/Sam3sGetAdc.nc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/chips/da9030
+END
+PMICM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4006/trunk/tos/platforms/intelmote2/chips/da9030/PMICM.nc
+END
+PMIC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4006/trunk/tos/platforms/intelmote2/chips/da9030/PMIC.nc
+END
+PMICC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4006/trunk/tos/platforms/intelmote2/chips/da9030/PMICC.nc
+END
+pmic.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/chips/da9030/pmic.h
+END

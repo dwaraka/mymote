@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5193/trunk/tos/platforms/shimmer/chips/ds2411
+END
+IDChip.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/chips/ds2411/IDChip.nc
+END
+PlatformIeeeEui64.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5193/trunk/tos/platforms/shimmer/chips/ds2411/PlatformIeeeEui64.h
+END
+LocalIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5193/trunk/tos/platforms/shimmer/chips/ds2411/LocalIeeeEui64C.nc
+END
+DallasId48ToIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5193/trunk/tos/platforms/shimmer/chips/ds2411/DallasId48ToIeeeEui64C.nc
+END
+HplDs2411C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/chips/ds2411/HplDs2411C.nc
+END

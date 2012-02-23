@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5798/trunk/tos/chips/sht21
+END
+Sht21P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5798/trunk/tos/chips/sht21/Sht21P.nc
+END
+Sht21C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5777/trunk/tos/chips/sht21/Sht21C.nc
+END
+Sht21ArbitratedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5798/trunk/tos/chips/sht21/Sht21ArbitratedC.nc
+END
+Sht21.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5798/trunk/tos/chips/sht21/Sht21.h
+END
+Sht21RawHumidityC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5798/trunk/tos/chips/sht21/Sht21RawHumidityC.nc
+END
+Sht21RawTemperatureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5798/trunk/tos/chips/sht21/Sht21RawTemperatureC.nc
+END

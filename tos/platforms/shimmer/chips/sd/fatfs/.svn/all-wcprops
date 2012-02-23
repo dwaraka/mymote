@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5708/trunk/tos/platforms/shimmer/chips/sd/fatfs
+END
+ccsbcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/ccsbcs.c
+END
+FatFsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/FatFsP.nc
+END
+FatFs.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/FatFs.nc
+END
+diskio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/diskio.c
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/integer.h
+END
+diskIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5708/trunk/tos/platforms/shimmer/chips/sd/fatfs/diskIOC.nc
+END
+diskio.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5265/trunk/tos/platforms/shimmer/chips/sd/fatfs/diskio.h
+END
+FatFs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5265/trunk/tos/platforms/shimmer/chips/sd/fatfs/FatFs.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/sd/fatfs/README
+END

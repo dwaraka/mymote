@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/peripherals/dbgu
+END
+dbgu.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/peripherals/dbgu/dbgu.c
+END
+dbgu.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/peripherals/dbgu/dbgu.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd
+END
+PlatformHsmciConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5382/trunk/tos/platforms/sam3u_ek/chips/sd/PlatformHsmciConfigC.nc
+END
+TimeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd/TimeC.nc
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd/integer.h
+END
+Time.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd/Time.h
+END
+FatFsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5382/trunk/tos/platforms/sam3u_ek/chips/sd/FatFsC.nc
+END
+Time.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd/Time.nc
+END
+TimeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/sd/TimeP.nc
+END

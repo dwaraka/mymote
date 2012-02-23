@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5576/trunk/tos/platforms/telosa/chips/cc2420x
+END
+Msp430ClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5576/trunk/tos/platforms/telosa/chips/cc2420x/Msp430ClockP.nc
+END
+TelosSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5541/trunk/tos/platforms/telosa/chips/cc2420x/TelosSerialP.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5541/trunk/tos/platforms/telosa/chips/cc2420x/README.txt
+END

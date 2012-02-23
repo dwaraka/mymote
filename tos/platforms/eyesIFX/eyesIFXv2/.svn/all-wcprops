@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/platforms/eyesIFX/eyesIFXv2
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2898/trunk/tos/platforms/eyesIFX/eyesIFXv2/.platform
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4628/trunk/tos/platforms/eyesIFX/eyesIFXv2/hardware.h
+END

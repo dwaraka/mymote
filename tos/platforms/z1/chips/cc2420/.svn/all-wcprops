@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/chips/cc2420
+END
+HplCC2420SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/chips/cc2420/HplCC2420SpiC.nc
+END
+HplCC2420AlarmC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/chips/cc2420/HplCC2420AlarmC.nc
+END
+HplCC2420InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/chips/cc2420/HplCC2420InterruptsC.nc
+END
+HplCC2420PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/chips/cc2420/HplCC2420PinsC.nc
+END

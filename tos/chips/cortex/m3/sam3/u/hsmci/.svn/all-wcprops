@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5500/trunk/tos/chips/cortex/m3/sam3/u/hsmci
+END
+Sam3uHsmciInit.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/Sam3uHsmciInit.nc
+END
+HplSam3uHsmciP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5500/trunk/tos/chips/cortex/m3/sam3/u/hsmci/HplSam3uHsmciP.nc
+END
+HplSam3uHsmci.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/HplSam3uHsmci.nc
+END
+sam3uhsmcihardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/sam3uhsmcihardware.h
+END
+HplSam3uHsmciC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/HplSam3uHsmciC.nc
+END
+SDP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/SDP.nc
+END
+SD.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/hsmci/SD.nc
+END
+SDC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/SDC.nc
+END
+Sam3uHsmci.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/Sam3uHsmci.nc
+END
+Sam3uHsmciP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/Sam3uHsmciP.nc
+END
+Sam3uHsmciC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/hsmci/Sam3uHsmciC.nc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4371/trunk/tos/chips/pxa27x/i2c
+END
+HalPXA27xI2CMasterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/i2c/HalPXA27xI2CMasterP.nc
+END
+HalPXA27xI2CMasterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/i2c/HalPXA27xI2CMasterC.nc
+END
+HplPXA27xI2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/i2c/HplPXA27xI2C.nc
+END
+HplPXA27xI2CP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4371/trunk/tos/chips/pxa27x/i2c/HplPXA27xI2CP.nc
+END
+HplPXA27xI2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/i2c/HplPXA27xI2CC.nc
+END
+HplPXA27xPI2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/i2c/HplPXA27xPI2CC.nc
+END

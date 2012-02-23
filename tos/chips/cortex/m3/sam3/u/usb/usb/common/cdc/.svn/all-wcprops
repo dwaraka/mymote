@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc
+END
+CDCAbstractControlManagementDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCAbstractControlManagementDescriptor.h
+END
+CDCCommunicationInterfaceDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCCommunicationInterfaceDescriptor.h
+END
+CDCGenericRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCGenericRequest.h
+END
+CDCLineCoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCLineCoding.c
+END
+CDCUnionDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCUnionDescriptor.h
+END
+CDCCallManagementDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCCallManagementDescriptor.h
+END
+CDCHeaderDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCHeaderDescriptor.h
+END
+CDCSetControlLineStateRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCSetControlLineStateRequest.c
+END
+CDCDataInterfaceDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCDataInterfaceDescriptor.h
+END
+CDCLineCoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCLineCoding.h
+END
+CDCGenericDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCGenericDescriptor.h
+END
+CDCSetControlLineStateRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCSetControlLineStateRequest.h
+END
+CDCDeviceDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/common/cdc/CDCDeviceDescriptor.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5742/trunk/tos/lib/net/blip/dhcp
+END
+Dhcp6Info.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/Dhcp6Info.nc
+END
+Dhcp6RelayP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5611/trunk/tos/lib/net/blip/dhcp/Dhcp6RelayP.nc
+END
+DhcpCmdP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/DhcpCmdP.nc
+END
+Dhcp6ClientP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5742/trunk/tos/lib/net/blip/dhcp/Dhcp6ClientP.nc
+END
+Dhcp6RelayC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5610/trunk/tos/lib/net/blip/dhcp/Dhcp6RelayC.nc
+END
+Dhcp6P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/Dhcp6P.nc
+END
+DhcpCmdC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/DhcpCmdC.nc
+END
+Dhcp6ClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/Dhcp6ClientC.nc
+END
+dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5610/trunk/tos/lib/net/blip/dhcp/dhcp6.h
+END
+NoDhcpC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/dhcp/NoDhcpC.nc
+END

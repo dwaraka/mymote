@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer
+END
+Msp430TimerCommonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4171/trunk/tos/chips/msp430/timer/Msp430TimerCommonP.nc
+END
+Msp430ClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430ClockP.nc
+END
+GpioCaptureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/GpioCaptureC.nc
+END
+Msp430HybridAlarmCounterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430HybridAlarmCounterP.nc
+END
+Msp430TimerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerC.nc
+END
+AlarmMilli32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/AlarmMilli32C.nc
+END
+Msp430HybridAlarmCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430HybridAlarmCounter.h
+END
+Msp430Compare.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Compare.nc
+END
+AlarmMilli16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/AlarmMilli16C.nc
+END
+AlarmMicro16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/AlarmMicro16C.nc
+END
+BusyWaitMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/BusyWaitMicroC.nc
+END
+Msp430ClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430ClockC.nc
+END
+LocalTimeMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/LocalTimeMicroC.nc
+END
+HilTimerMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/HilTimerMilliC.nc
+END
+Msp430HybridAlarmCounterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430HybridAlarmCounterC.nc
+END
+LocalTimeHybridMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/LocalTimeHybridMicroC.nc
+END
+CounterMilli32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/CounterMilli32C.nc
+END
+CounterMilli16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/CounterMilli16C.nc
+END
+CounterMicro32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer/CounterMicro32C.nc
+END
+Msp430TimerMicroMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerMicroMapC.nc
+END
+Msp430CounterMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430CounterMicroC.nc
+END
+CounterSecond32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer/CounterSecond32C.nc
+END
+Msp430TimerMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerMicroC.nc
+END
+CounterSecond16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer/CounterSecond16C.nc
+END
+Alarm32khz32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Alarm32khz32C.nc
+END
+Msp430ClockInit.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430ClockInit.nc
+END
+Msp430DcoCalibP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430DcoCalibP.nc
+END
+Msp430Timer.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Timer.nc
+END
+Msp430TimerControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerControl.nc
+END
+Alarm32khz16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Alarm32khz16C.nc
+END
+Msp430CounterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430CounterC.nc
+END
+Msp430TimerEvent.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerEvent.nc
+END
+Msp430TimerCapComP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerCapComP.nc
+END
+BusyWait32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/BusyWait32khzC.nc
+END
+AlarmSecond32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer/AlarmSecond32C.nc
+END
+AlarmSecond16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5460/trunk/tos/chips/msp430/timer/AlarmSecond16C.nc
+END
+Msp430AlarmC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430AlarmC.nc
+END
+Msp430TimerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430TimerP.nc
+END
+Counter32khz32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Counter32khz32C.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Timer32khzMapC.nc
+END
+Msp430DcoCalibC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430DcoCalibC.nc
+END
+Msp430Capture.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Capture.nc
+END
+Msp430Counter32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Counter32khzC.nc
+END
+Counter32khz16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Counter32khz16C.nc
+END
+Msp430Timer32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Timer32khzC.nc
+END
+Msp430Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/timer/Msp430Timer.h
+END
+Msp430DcoSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3416/trunk/tos/chips/msp430/timer/Msp430DcoSpec.h
+END

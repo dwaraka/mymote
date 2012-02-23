@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5709/trunk/tos/platforms/shimmer/chips/msp430
+END
+PowerSupplyMonitorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5707/trunk/tos/platforms/shimmer/chips/msp430/PowerSupplyMonitorP.nc
+END
+PowerSupplyMonitor.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/msp430/PowerSupplyMonitor.nc
+END
+HilTimerMilli64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/chips/msp430/HilTimerMilli64C.nc
+END
+Msp430I2CP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5709/trunk/tos/platforms/shimmer/chips/msp430/Msp430I2CP.nc
+END
+PowerSupplyMonitorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/chips/msp430/PowerSupplyMonitorC.nc
+END
+PowerSupplyMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5706/trunk/tos/platforms/shimmer/chips/msp430/PowerSupplyMonitor.h
+END
+HplMsp430I2C0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5121/trunk/tos/platforms/shimmer/chips/msp430/HplMsp430I2C0P.nc
+END
+FastClock.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5247/trunk/tos/platforms/shimmer/chips/msp430/FastClock.nc
+END
+HplMsp430Usart0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5121/trunk/tos/platforms/shimmer/chips/msp430/HplMsp430Usart0P.nc
+END
+FastClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5247/trunk/tos/platforms/shimmer/chips/msp430/FastClockP.nc
+END
+msp430hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5644/trunk/tos/platforms/shimmer/chips/msp430/msp430hardware.h
+END
+msp430usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5093/trunk/tos/platforms/shimmer/chips/msp430/msp430usart.h
+END
+FastClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5247/trunk/tos/platforms/shimmer/chips/msp430/FastClockC.nc
+END
+InternalFlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5290/trunk/tos/platforms/shimmer/chips/msp430/InternalFlashC.nc
+END

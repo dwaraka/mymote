@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5777/trunk/tos/chips/atm128rfa1/i2c
+END
+HplAtm128I2CBusP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5777/trunk/tos/chips/atm128rfa1/i2c/HplAtm128I2CBusP.nc
+END
+HplAtm128I2CBusC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5777/trunk/tos/chips/atm128rfa1/i2c/HplAtm128I2CBusC.nc
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control
+END
+M16c60ControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/M16c60ControlC.nc
+END
+SystemClockControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/SystemClockControl.nc
+END
+M16c60ControlPlatform.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/M16c60ControlPlatform.nc
+END
+SystemClockControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/SystemClockControlC.nc
+END
+M16c60Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/M16c60Control.h
+END
+StopModeControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/StopModeControl.nc
+END
+M16c60Control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/M16c60Control.nc
+END
+M16c60ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/M16c60ControlP.nc
+END
+StopModeControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/control/StopModeControlC.nc
+END

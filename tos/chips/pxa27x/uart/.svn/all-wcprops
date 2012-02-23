@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart
+END
+HplPXA27xBTUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HplPXA27xBTUARTC.nc
+END
+HplPXA27xSTUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HplPXA27xSTUARTC.nc
+END
+HalPXA27xSerialPacket.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HalPXA27xSerialPacket.nc
+END
+HplPXA27xFFUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HplPXA27xFFUARTC.nc
+END
+HplPXA27xUART.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HplPXA27xUART.nc
+END
+PXA27X_UARTREG.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/PXA27X_UARTREG.h
+END
+HplPXA27xUARTP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HplPXA27xUARTP.nc
+END
+HalPXA27xSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HalPXA27xSerialP.nc
+END
+pxa27x_serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/pxa27x_serial.h
+END
+HalPXA27xSerialCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/uart/HalPXA27xSerialCntl.nc
+END

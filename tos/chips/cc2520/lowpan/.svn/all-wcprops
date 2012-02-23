@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5241/trunk/tos/chips/cc2420/lowpan
+END
+CC2420TinyosNetworkC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5241/trunk/tos/chips/cc2420/lowpan/CC2420TinyosNetworkC.nc
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/lowpan/readme.txt
+END
+CC2420TinyosNetworkP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5167/trunk/tos/chips/cc2420/lowpan/CC2420TinyosNetworkP.nc
+END

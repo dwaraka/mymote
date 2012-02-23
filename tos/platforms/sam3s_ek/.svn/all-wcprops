@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5504/trunk/tos/platforms/sam3s_ek
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5468/trunk/tos/platforms/sam3s_ek/ActiveMessageC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3s_ek/MoteClockC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5479/trunk/tos/platforms/sam3s_ek/hardware.h
+END
+sam3s-ek-flash.x
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5382/trunk/tos/platforms/sam3s_ek/sam3s-ek-flash.x
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5471/trunk/tos/platforms/sam3s_ek/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5393/trunk/tos/platforms/sam3s_ek/PlatformSerialC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5382/trunk/tos/platforms/sam3s_ek/PlatformLedsC.nc
+END
+MoteClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5397/trunk/tos/platforms/sam3s_ek/MoteClockP.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5480/trunk/tos/platforms/sam3s_ek/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5468/trunk/tos/platforms/sam3s_ek/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5471/trunk/tos/platforms/sam3s_ek/PlatformP.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3s_ek/LedsP.nc
+END
+vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5469/trunk/tos/platforms/sam3s_ek/vectors.c
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5468/trunk/tos/platforms/sam3s_ek/Ieee154MessageC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5382/trunk/tos/platforms/sam3s_ek/platform.h
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5468/trunk/tos/platforms/sam3s_ek/platform_message.h
+END

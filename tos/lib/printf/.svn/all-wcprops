@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5796/trunk/tos/lib/printf
+END
+SerialStartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5493/trunk/tos/lib/printf/SerialStartC.nc
+END
+SerialPrintf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5584/trunk/tos/lib/printf/SerialPrintf.txt
+END
+SerialPrintfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5796/trunk/tos/lib/printf/SerialPrintfP.nc
+END
+PrintfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5585/trunk/tos/lib/printf/PrintfP.nc
+END
+SerialPrintfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5585/trunk/tos/lib/printf/SerialPrintfC.nc
+END
+PrintfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5585/trunk/tos/lib/printf/PrintfC.nc
+END
+generic_printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5000/trunk/tos/lib/printf/generic_printf.h
+END
+PutcharP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5585/trunk/tos/lib/printf/PutcharP.nc
+END
+Putchar.nc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5585/trunk/tos/lib/printf/Putchar.nc
+END
+printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5585/trunk/tos/lib/printf/printf.h
+END
+PutcharC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5585/trunk/tos/lib/printf/PutcharC.nc
+END
+SerialStartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5493/trunk/tos/lib/printf/SerialStartP.nc
+END

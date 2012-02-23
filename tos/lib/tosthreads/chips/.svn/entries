@@ -1,0 +1,55 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos/lib/tosthreads/chips
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-12-21T21:31:47.533284Z
+5851
+vlado.handziski@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+tda5250
+dir
+
+xe1205
+dir
+
+msp430
+dir
+
+cc1000
+dir
+
+pxa27x
+dir
+
+m16c60
+dir
+
+atm128
+dir
+
+cc2420
+dir
+
+atm1281
+dir
+

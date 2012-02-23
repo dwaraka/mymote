@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/conf
+END
+registers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/registers.txt
+END
+XE1205IrqConf.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205IrqConf.nc
+END
+XE1205IrqConfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205IrqConfP.nc
+END
+XE1205PatternConfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/conf/XE1205PatternConfP.nc
+END
+XE1205PatternConf.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/conf/XE1205PatternConf.nc
+END
+XE1205IrqConfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205IrqConfC.nc
+END
+XE1205Register.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205Register.nc
+END
+XE1205PatternConfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205PatternConfC.nc
+END
+XE1205PhyConf.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205PhyConf.nc
+END
+XE1205RssiConf.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/conf/XE1205RssiConf.nc
+END
+registers.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/registers.html
+END
+XE1205PhyRssiConfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/conf/XE1205PhyRssiConfP.nc
+END
+XE1205PhyRssiConfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/conf/XE1205PhyRssiConfC.nc
+END

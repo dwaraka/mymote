@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5599/trunk/tos/platforms/intelmote2
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/platforms/intelmote2/DemoSensorC.nc
+END
+BlockStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2977/trunk/tos/platforms/intelmote2/BlockStorageC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/hardware.h
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2399/trunk/tos/platforms/intelmote2/PlatformC.nc
+END
+PlatformReset.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2399/trunk/tos/platforms/intelmote2/PlatformReset.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2977/trunk/tos/platforms/intelmote2/PlatformSerialC.nc
+END
+PlatformResetC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4005/trunk/tos/platforms/intelmote2/PlatformResetC.nc
+END
+IM2InitSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2977/trunk/tos/platforms/intelmote2/IM2InitSerialP.nc
+END
+ConfigStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2880/trunk/tos/platforms/intelmote2/ConfigStorageC.nc
+END
+DemoSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/platforms/intelmote2/DemoSensorP.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2399/trunk/tos/platforms/intelmote2/PlatformLedsC.nc
+END
+toscrt0.s
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4006/trunk/tos/platforms/intelmote2/toscrt0.s
+END
+LocalIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5599/trunk/tos/platforms/intelmote2/LocalIeeeEui64C.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4909/trunk/tos/platforms/intelmote2/.platform
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/TimeSyncMessageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2399/trunk/tos/platforms/intelmote2/PlatformP.nc
+END
+HilTimerMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4052/trunk/tos/platforms/intelmote2/HilTimerMilliC.nc
+END
+LogStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2880/trunk/tos/platforms/intelmote2/LogStorageC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3095/trunk/tos/platforms/intelmote2/platform.h
+END
+tos.x
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4005/trunk/tos/platforms/intelmote2/tos.x
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/platforms/intelmote2/platform_message.h
+END

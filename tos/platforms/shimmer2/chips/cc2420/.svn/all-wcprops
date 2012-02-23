@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5232/trunk/tos/platforms/shimmer2/chips/cc2420
+END
+HplCC2420SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4802/trunk/tos/platforms/shimmer2/chips/cc2420/HplCC2420SpiC.nc
+END
+HplCC2420InterruptsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5232/trunk/tos/platforms/shimmer2/chips/cc2420/HplCC2420InterruptsP.nc
+END
+HplCC2420AlarmC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4802/trunk/tos/platforms/shimmer2/chips/cc2420/HplCC2420AlarmC.nc
+END
+HplCC2420InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5232/trunk/tos/platforms/shimmer2/chips/cc2420/HplCC2420InterruptsC.nc
+END
+HplCC2420PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4802/trunk/tos/platforms/shimmer2/chips/cc2420/HplCC2420PinsC.nc
+END

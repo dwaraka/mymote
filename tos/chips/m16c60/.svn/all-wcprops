@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5820/trunk/tos/chips/m16c60
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/McuSleepC.nc
+END
+m16c60hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5820/trunk/tos/chips/m16c60/m16c60hardware.h
+END
+interrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/interrupts.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/bits.h
+END
+McuSleepP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/McuSleepP.nc
+END

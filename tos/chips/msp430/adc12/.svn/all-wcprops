@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5727/trunk/tos/chips/msp430/adc12
+END
+Msp430RefVoltArbiterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5180/trunk/tos/chips/msp430/adc12/Msp430RefVoltArbiterP.nc
+END
+Msp430Adc12P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3921/trunk/tos/chips/msp430/adc12/Msp430Adc12P.nc
+END
+AdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4425/trunk/tos/chips/msp430/adc12/AdcStreamP.nc
+END
+AdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/adc12/AdcReadClientC.nc
+END
+Msp430Adc12Overflow.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/adc12/Msp430Adc12Overflow.nc
+END
+Msp430RefVoltGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5180/trunk/tos/chips/msp430/adc12/Msp430RefVoltGenerator.h
+END
+Msp430Adc12.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5727/trunk/tos/chips/msp430/adc12/Msp430Adc12.h
+END
+Msp430Adc12ClientAutoDMA_RVGC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4005/trunk/tos/chips/msp430/adc12/Msp430Adc12ClientAutoDMA_RVGC.nc
+END
+Msp430Adc12SingleChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4180/trunk/tos/chips/msp430/adc12/Msp430Adc12SingleChannel.nc
+END
+HplAdc12.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3943/trunk/tos/chips/msp430/adc12/HplAdc12.nc
+END
+AdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3856/trunk/tos/chips/msp430/adc12/AdcReadStreamClientC.nc
+END
+Msp430Adc12ConfAlertC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4005/trunk/tos/chips/msp430/adc12/Msp430Adc12ConfAlertC.nc
+END
+Msp430Adc12DMAP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5503/trunk/tos/chips/msp430/adc12/Msp430Adc12DMAP.nc
+END
+Msp430Adc12ImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5591/trunk/tos/chips/msp430/adc12/Msp430Adc12ImplP.nc
+END
+Msp430RefVoltArbiterImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5507/trunk/tos/chips/msp430/adc12/Msp430RefVoltArbiterImplP.nc
+END
+Msp430Adc12ClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4005/trunk/tos/chips/msp430/adc12/Msp430Adc12ClientC.nc
+END
+Msp430Adc12MultiChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4886/trunk/tos/chips/msp430/adc12/Msp430Adc12MultiChannel.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4180/trunk/tos/chips/msp430/adc12/AdcP.nc
+END
+AdcReadNowClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2977/trunk/tos/chips/msp430/adc12/AdcReadNowClientC.nc
+END
+WireAdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3856/trunk/tos/chips/msp430/adc12/WireAdcStreamP.nc
+END
+Msp430Adc12ClientAutoRVGC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4005/trunk/tos/chips/msp430/adc12/Msp430Adc12ClientAutoRVGC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5237/trunk/tos/chips/msp430/adc12/README.txt
+END
+Msp430Adc12DMAWireC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3856/trunk/tos/chips/msp430/adc12/Msp430Adc12DMAWireC.nc
+END
+Msp430Adc12ClientAutoDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4005/trunk/tos/chips/msp430/adc12/Msp430Adc12ClientAutoDMAC.nc
+END
+HplAdc12P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5701/trunk/tos/chips/msp430/adc12/HplAdc12P.nc
+END
+Msp430RefVoltGeneratorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5180/trunk/tos/chips/msp430/adc12/Msp430RefVoltGeneratorP.nc
+END

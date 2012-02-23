@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5816/trunk/tos/lib/net/blip/interfaces
+END
+IPLower.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/IPLower.nc
+END
+ReadLqi.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5816/trunk/tos/lib/net/blip/interfaces/ReadLqi.nc
+END
+NeighborDiscovery.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/NeighborDiscovery.nc
+END
+Tcp.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/tos/lib/net/blip/interfaces/Tcp.nc
+END
+IPMiddle.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/IPMiddle.nc
+END
+ForwardingEvents.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5816/trunk/tos/lib/net/blip/interfaces/ForwardingEvents.nc
+END
+ICMP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/ICMP.nc
+END
+IPExtensions.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5168/trunk/tos/lib/net/blip/interfaces/IPExtensions.nc
+END
+UDP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/UDP.nc
+END
+IPForward.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/IPForward.nc
+END
+ForwardingTableEvents.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5626/trunk/tos/lib/net/blip/interfaces/ForwardingTableEvents.nc
+END
+IPPacket.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5631/trunk/tos/lib/net/blip/interfaces/IPPacket.nc
+END
+BlipStatistics.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5168/trunk/tos/lib/net/blip/interfaces/BlipStatistics.nc
+END
+InternalIPExtension.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5168/trunk/tos/lib/net/blip/interfaces/InternalIPExtension.nc
+END
+ICMPPing.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/ICMPPing.nc
+END
+Ieee154Address.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/Ieee154Address.nc
+END
+IP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/IP.nc
+END
+ForwardingTable.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/ForwardingTable.nc
+END
+TLVHeader.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5168/trunk/tos/lib/net/blip/interfaces/TLVHeader.nc
+END
+IPAddress.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5244/trunk/tos/lib/net/blip/interfaces/IPAddress.nc
+END

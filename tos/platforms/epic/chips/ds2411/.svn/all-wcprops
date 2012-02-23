@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5320/trunk/tos/platforms/epic/chips/ds2411
+END
+DallasId48.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/DallasId48.h
+END
+PlatformIeeeEui64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/PlatformIeeeEui64.h
+END
+Ds2411C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5320/trunk/tos/platforms/epic/chips/ds2411/Ds2411C.nc
+END
+LocalIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/LocalIeeeEui64C.nc
+END
+DallasId48ToIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5320/trunk/tos/platforms/epic/chips/ds2411/DallasId48ToIeeeEui64C.nc
+END
+OneWireStream.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/OneWireStream.nc
+END
+ReadId48.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/ReadId48.nc
+END
+OneWireMasterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5320/trunk/tos/platforms/epic/chips/ds2411/OneWireMasterC.nc
+END
+PlatformOneWireLowLevelC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5320/trunk/tos/platforms/epic/chips/ds2411/PlatformOneWireLowLevelC.nc
+END
+Ds2411P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/Ds2411P.nc
+END
+CachedIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5169/trunk/tos/platforms/epic/chips/ds2411/CachedIeeeEui64C.nc
+END

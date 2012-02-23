@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5825/trunk/tos/chips/cc2420/interfaces
+END
+CC2420Config.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5825/trunk/tos/chips/cc2420/interfaces/CC2420Config.nc
+END
+CC2420Packet.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5697/trunk/tos/chips/cc2420/interfaces/CC2420Packet.nc
+END
+CC2420Keys.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/interfaces/CC2420Keys.nc
+END
+CC2420SecurityMode.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/interfaces/CC2420SecurityMode.nc
+END
+PacketTimeSyncOffset.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/interfaces/PacketTimeSyncOffset.nc
+END
+CC2420Ram.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3980/trunk/tos/chips/cc2420/interfaces/CC2420Ram.nc
+END
+CC2420Receive.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4053/trunk/tos/chips/cc2420/interfaces/CC2420Receive.nc
+END
+CC2420Fifo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3980/trunk/tos/chips/cc2420/interfaces/CC2420Fifo.nc
+END
+CC2420Register.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/interfaces/CC2420Register.nc
+END
+CC2420PacketBody.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5167/trunk/tos/chips/cc2420/interfaces/CC2420PacketBody.nc
+END
+ChipSpiResource.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/interfaces/ChipSpiResource.nc
+END
+RadioBackoff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3980/trunk/tos/chips/cc2420/interfaces/RadioBackoff.nc
+END
+CC2420Power.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/interfaces/CC2420Power.nc
+END
+PowerCycle.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/interfaces/PowerCycle.nc
+END
+CC2420Strobe.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/interfaces/CC2420Strobe.nc
+END
+ReceiveIndicator.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/interfaces/ReceiveIndicator.nc
+END
+CC2420Transmit.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3980/trunk/tos/chips/cc2420/interfaces/CC2420Transmit.nc
+END

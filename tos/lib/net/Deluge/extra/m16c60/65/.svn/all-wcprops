@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5563/trunk/tos/lib/net/Deluge/extra/m16c60/65
+END
+HplM16c60FlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5563/trunk/tos/lib/net/Deluge/extra/m16c60/65/HplM16c60FlashC.nc
+END
+M16c65Flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5563/trunk/tos/lib/net/Deluge/extra/m16c60/65/M16c65Flash.h
+END
+InternalFlashP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5563/trunk/tos/lib/net/Deluge/extra/m16c60/65/InternalFlashP.nc
+END
+InternalFlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5563/trunk/tos/lib/net/Deluge/extra/m16c60/65/InternalFlashC.nc
+END

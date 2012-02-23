@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/timers/stop
+END
+RV8564AlarmCounterMilli32P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4707/trunk/tos/platforms/mulle/timers/stop/RV8564AlarmCounterMilli32P.nc
+END
+RV8564AlarmCounterMilli32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/timers/stop/RV8564AlarmCounterMilli32C.nc
+END

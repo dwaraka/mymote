@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5671/trunk/tos/chips/stm25p
+END
+Stm25p.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25p.h
+END
+Stm25pVolume.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pVolume.nc
+END
+BlockStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/BlockStorageC.nc
+END
+Stm25pBlockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pBlockP.nc
+END
+Stm25pSpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5671/trunk/tos/chips/stm25p/Stm25pSpiP.nc
+END
+Stm25pOffC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5666/trunk/tos/chips/stm25p/Stm25pOffC.nc
+END
+Stm25pSectorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5516/trunk/tos/chips/stm25p/Stm25pSectorP.nc
+END
+ConfigStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/ConfigStorageC.nc
+END
+Stm25pBinderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pBinderP.nc
+END
+Storage_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Storage_chip.h
+END
+Stm25pConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pConfigP.nc
+END
+StorageMap.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3139/trunk/tos/chips/stm25p/StorageMap.nc
+END
+Stm25pLogConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pLogConfigP.nc
+END
+Stm25pOffP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5666/trunk/tos/chips/stm25p/Stm25pOffP.nc
+END
+Stm25pSpi.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pSpi.nc
+END
+Stm25pSpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pSpiC.nc
+END
+LogStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/LogStorageC.nc
+END
+Stm25pSector.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2977/trunk/tos/chips/stm25p/Stm25pSector.nc
+END
+Stm25pLogP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4915/trunk/tos/chips/stm25p/Stm25pLogP.nc
+END
+Stm25pSectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3033/trunk/tos/chips/stm25p/Stm25pSectorC.nc
+END

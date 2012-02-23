@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5663/trunk/tos/platforms/telosb
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/platforms/telosb/VoltageStreamC.nc
+END
+HplUserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3195/trunk/tos/platforms/telosb/HplUserButtonC.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/platforms/telosb/DemoSensorC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3416/trunk/tos/platforms/telosb/MoteClockC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4628/trunk/tos/platforms/telosb/hardware.h
+END
+UserButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3676/trunk/tos/platforms/telosb/UserButtonP.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2977/trunk/tos/platforms/telosb/DemoSensorStreamC.nc
+END
+MoteClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3416/trunk/tos/platforms/telosb/MoteClockP.nc
+END
+UserButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3195/trunk/tos/platforms/telosb/UserButton.h
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5169/trunk/tos/platforms/telosb/.platform
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2977/trunk/tos/platforms/telosb/VoltageC.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/platforms/telosb/DemoSensorNowC.nc
+END
+SwitchToggleC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3195/trunk/tos/platforms/telosb/SwitchToggleC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3095/trunk/tos/platforms/telosb/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4141/trunk/tos/platforms/telosb/MotePlatformC.nc
+END
+UserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3195/trunk/tos/platforms/telosb/UserButtonC.nc
+END

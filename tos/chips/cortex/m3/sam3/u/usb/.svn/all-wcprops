@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5660/trunk/tos/chips/cortex/m3/sam3/u/usb
+END
+sam3uudphshardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/sam3uudphshardware.h
+END
+Sam3uUsbSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5660/trunk/tos/chips/cortex/m3/sam3/u/usb/Sam3uUsbSerialP.nc
+END
+Sam3uUsbSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/usb/Sam3uUsbSerialC.nc
+END
+Sam3uUsbBufferedSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/usb/Sam3uUsbBufferedSerialP.nc
+END

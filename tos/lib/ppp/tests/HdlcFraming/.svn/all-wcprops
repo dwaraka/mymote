@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/HdlcFraming
+END
+PseudoSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/PseudoSerialC.nc
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/TestAppC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/HdlcFraming/Makefile
+END
+PseudoSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/PseudoSerialP.nc
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/TestP.nc
+END
+PseudoSerial.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcFraming/PseudoSerial.nc
+END

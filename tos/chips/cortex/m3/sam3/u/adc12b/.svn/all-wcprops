@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5659/trunk/tos/chips/cortex/m3/sam3/u/adc12b
+END
+HplAdc12bP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/HplAdc12bP.nc
+END
+AdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcStreamP.nc
+END
+Sam3uAdc12bP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/u/adc12b/Sam3uAdc12bP.nc
+END
+AdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcReadClientC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/adc12b/README
+END
+HplAdc12b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/HplAdc12b.nc
+END
+AdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcReadStreamClientC.nc
+END
+HplAdc12bC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/HplAdc12bC.nc
+END
+Sam3uGetAdc12b.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/Sam3uGetAdc12b.nc
+END
+Sam3uAdc12bClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/Sam3uAdc12bClientC.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcP.nc
+END
+Sam3uAdc12bImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5659/trunk/tos/chips/cortex/m3/sam3/u/adc12b/Sam3uAdc12bImplP.nc
+END
+AdcReadNowClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcReadNowClientC.nc
+END
+AdcStreamPDCP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/u/adc12b/AdcStreamPDCP.nc
+END
+sam3uadc12bhardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/adc12b/sam3uadc12bhardware.h
+END
+WireAdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5401/trunk/tos/chips/cortex/m3/sam3/u/adc12b/WireAdcStreamP.nc
+END

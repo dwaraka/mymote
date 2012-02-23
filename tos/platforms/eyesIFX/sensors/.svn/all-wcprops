@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3692/trunk/tos/platforms/eyesIFX/sensors
+END
+CoulombCounterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3692/trunk/tos/platforms/eyesIFX/sensors/CoulombCounterP.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/DemoSensorC.nc
+END
+sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3424/trunk/tos/platforms/eyesIFX/sensors/sensors.h
+END
+TempExtSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3673/trunk/tos/platforms/eyesIFX/sensors/TempExtSensorC.nc
+END
+PhotoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/PhotoSensorC.nc
+END
+ReadStreamShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/ReadStreamShiftC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/DemoSensorStreamC.nc
+END
+SensorSettingsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/SensorSettingsC.nc
+END
+BatteryLevelSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3101/trunk/tos/platforms/eyesIFX/sensors/BatteryLevelSensorC.nc
+END
+CoulombCounter.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3692/trunk/tos/platforms/eyesIFX/sensors/CoulombCounter.nc
+END
+TempExtSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3008/trunk/tos/platforms/eyesIFX/sensors/TempExtSensorP.nc
+END
+ReadNowShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/ReadNowShiftC.nc
+END
+BatteryLevel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2399/trunk/tos/platforms/eyesIFX/sensors/BatteryLevel.nc
+END
+CoulombCounterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3467/trunk/tos/platforms/eyesIFX/sensors/CoulombCounterC.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/DemoSensorNowC.nc
+END
+RssiSensorVccC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/RssiSensorVccC.nc
+END
+ReadShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/ReadShiftC.nc
+END
+RssiSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/sensors/RssiSensorC.nc
+END

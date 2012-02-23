@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5537/trunk/tos/chips/m16c60/adc
+END
+AdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/AdcStreamP.nc
+END
+AdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/AdcReadClientC.nc
+END
+M16c60AdcSingle.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/M16c60AdcSingle.nc
+END
+M16c60AdcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/M16c60AdcC.nc
+END
+HplM16c60Adc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/HplM16c60Adc.nc
+END
+M16c60AdcPlatform.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/M16c60AdcPlatform.nc
+END
+HplM16c60AdcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/HplM16c60AdcC.nc
+END
+WireAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/WireAdcP.nc
+END
+M16c60AdcMultiple.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/M16c60AdcMultiple.nc
+END
+AdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/AdcReadStreamClientC.nc
+END
+M16c60AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/M16c60AdcP.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/AdcP.nc
+END
+HplM16c60AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5537/trunk/tos/chips/m16c60/adc/HplM16c60AdcP.nc
+END
+AdcReadNowClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/AdcReadNowClientC.nc
+END
+WireAdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/WireAdcStreamP.nc
+END
+M16c60AdcConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5537/trunk/tos/chips/m16c60/adc/M16c60AdcConfig.nc
+END
+M16c60Adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5537/trunk/tos/chips/m16c60/adc/M16c60Adc.h
+END
+Adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/adc/Adc.h
+END

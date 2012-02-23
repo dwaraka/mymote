@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5495/trunk/tos/chips/cortex/m3/sam3/uart
+END
+uarthardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/uarthardware.h
+END
+HplSam3UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartP.nc
+END
+HplSam3UartInterrupts.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartInterrupts.nc
+END
+HplSam3UartControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartControl.nc
+END
+HplSam3UartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartC.nc
+END
+HplSam3UartStatus.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartStatus.nc
+END
+HplSam3UartConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/uart/HplSam3UartConfig.nc
+END
+HilSam3UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5486/trunk/tos/chips/cortex/m3/sam3/uart/HilSam3UartP.nc
+END

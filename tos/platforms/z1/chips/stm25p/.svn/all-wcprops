@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/stm25p
+END
+HplStm25pPinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/stm25p/HplStm25pPinsC.nc
+END
+HplStm25pSpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/stm25p/HplStm25pSpiC.nc
+END

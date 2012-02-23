@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5847/trunk/tos/lib/net/coap
+END
+CoapResourceCollectorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapResourceCollectorP.nc
+END
+CoapLedResourceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapLedResourceC.nc
+END
+tinyos_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/tinyos_net.h
+END
+CoapBufferTempTranslateC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapBufferTempTranslateC.nc
+END
+CoapBufferHumTranslateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5655/trunk/tos/lib/net/coap/CoapBufferHumTranslateP.nc
+END
+CoapUdpServerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapUdpServerC.nc
+END
+CoapFlashResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5845/trunk/tos/lib/net/coap/CoapFlashResourceP.nc
+END
+CoapReadResourceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5844/trunk/tos/lib/net/coap/CoapReadResourceC.nc
+END
+CoapRouteResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5847/trunk/tos/lib/net/coap/CoapRouteResourceP.nc
+END
+LibCoapAdapterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5835/trunk/tos/lib/net/coap/LibCoapAdapterP.nc
+END
+CoapUdpClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapUdpClientC.nc
+END
+CoapLedResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5845/trunk/tos/lib/net/coap/CoapLedResourceP.nc
+END
+CoapBufferTempTranslateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5655/trunk/tos/lib/net/coap/CoapBufferTempTranslateP.nc
+END
+CoapBufferVoltTranslateC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapBufferVoltTranslateC.nc
+END
+CoapUdpServerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5847/trunk/tos/lib/net/coap/CoapUdpServerP.nc
+END
+CoapResourceCollectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapResourceCollectorC.nc
+END
+CoapReadResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5844/trunk/tos/lib/net/coap/CoapReadResourceP.nc
+END
+CoapBufferHumTranslateC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/CoapBufferHumTranslateC.nc
+END
+CoapUdpClientP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5836/trunk/tos/lib/net/coap/CoapUdpClientP.nc
+END
+CoapFlashResourceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5844/trunk/tos/lib/net/coap/CoapFlashResourceC.nc
+END
+CoapRouteResourceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5847/trunk/tos/lib/net/coap/CoapRouteResourceC.nc
+END
+tinyos_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5651/trunk/tos/lib/net/coap/tinyos_net.c
+END
+LibCoapAdapterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5617/trunk/tos/lib/net/coap/LibCoapAdapterC.nc
+END
+CoapBufferVoltTranslateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5655/trunk/tos/lib/net/coap/CoapBufferVoltTranslateP.nc
+END

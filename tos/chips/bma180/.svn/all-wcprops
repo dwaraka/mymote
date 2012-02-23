@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5777/trunk/tos/chips/bma180
+END
+BmaReadP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5777/trunk/tos/chips/bma180/BmaReadP.nc
+END
+BmaStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5722/trunk/tos/chips/bma180/BmaStreamP.nc
+END
+Bma180C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5720/trunk/tos/chips/bma180/Bma180C.nc
+END
+BmaStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5777/trunk/tos/chips/bma180/BmaStreamC.nc
+END
+BmaReadC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5777/trunk/tos/chips/bma180/BmaReadC.nc
+END
+Bma180.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5722/trunk/tos/chips/bma180/Bma180.h
+END

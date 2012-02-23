@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/pins
+END
+HplMsp430GeneralIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5455/trunk/tos/chips/msp430/pins/HplMsp430GeneralIOP.nc
+END
+HplMsp430GeneralIO.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5455/trunk/tos/chips/msp430/pins/HplMsp430GeneralIO.nc
+END
+HplMsp430GeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/pins/HplMsp430GeneralIOC.nc
+END
+HplMsp430GeneralIORenP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5455/trunk/tos/chips/msp430/pins/HplMsp430GeneralIORenP.nc
+END
+Msp430InterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/pins/Msp430InterruptC.nc
+END
+HplMsp430InterruptP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5455/trunk/tos/chips/msp430/pins/HplMsp430InterruptP.nc
+END
+HplMsp430Interrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/pins/HplMsp430Interrupt.nc
+END
+Msp430GpioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/pins/Msp430GpioC.nc
+END
+HplMsp430InterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5455/trunk/tos/chips/msp430/pins/HplMsp430InterruptC.nc
+END
+HplMsp430InterruptNMIP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/pins/HplMsp430InterruptNMIP.nc
+END
+HplMsp430InterruptNMIC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/pins/HplMsp430InterruptNMIC.nc
+END

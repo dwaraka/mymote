@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5697/trunk/tos/chips/cc2420/packet
+END
+CC2420PacketP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5697/trunk/tos/chips/cc2420/packet/CC2420PacketP.nc
+END
+CC2420PacketC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5241/trunk/tos/chips/cc2420/packet/CC2420PacketC.nc
+END

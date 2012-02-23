@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5516/trunk/tos/chips/cc2420/spi
+END
+CC2420SpiWireC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/spi/CC2420SpiWireC.nc
+END
+CC2420SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5516/trunk/tos/chips/cc2420/spi/CC2420SpiP.nc
+END
+CC2420SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4659/trunk/tos/chips/cc2420/spi/CC2420SpiC.nc
+END

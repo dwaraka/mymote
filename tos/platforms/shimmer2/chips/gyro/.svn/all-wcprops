@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5557/trunk/tos/platforms/shimmer2/chips/gyro
+END
+HplGyroButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5023/trunk/tos/platforms/shimmer2/chips/gyro/HplGyroButtonC.nc
+END
+GyroBoard.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5016/trunk/tos/platforms/shimmer2/chips/gyro/GyroBoard.nc
+END
+GyroBoardP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5557/trunk/tos/platforms/shimmer2/chips/gyro/GyroBoardP.nc
+END
+GyroBoardC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5016/trunk/tos/platforms/shimmer2/chips/gyro/GyroBoardC.nc
+END
+GyroButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5481/trunk/tos/platforms/shimmer2/chips/gyro/GyroButtonP.nc
+END
+GyroButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5481/trunk/tos/platforms/shimmer2/chips/gyro/GyroButtonC.nc
+END

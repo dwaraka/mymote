@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5658/trunk/tos/platforms/shimmer/chips/gsr
+END
+Gsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5579/trunk/tos/platforms/shimmer/chips/gsr/Gsr.h
+END
+Gsr.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5579/trunk/tos/platforms/shimmer/chips/gsr/Gsr.nc
+END
+GsrP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5658/trunk/tos/platforms/shimmer/chips/gsr/GsrP.nc
+END
+GsrC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5579/trunk/tos/platforms/shimmer/chips/gsr/GsrC.nc
+END

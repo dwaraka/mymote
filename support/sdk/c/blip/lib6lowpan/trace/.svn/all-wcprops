@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5801/trunk/support/sdk/c/blip/lib6lowpan/trace
+END
+uncompressed.trace
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5610/trunk/support/sdk/c/blip/lib6lowpan/trace/uncompressed.trace
+END
+packet.trace
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5321/trunk/support/sdk/c/blip/lib6lowpan/trace/packet.trace
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5801/trunk/support/sdk/c/blip/lib6lowpan/trace/decompress.c
+END
+uncompressed2.trace
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5337/trunk/support/sdk/c/blip/lib6lowpan/trace/uncompressed2.trace
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5338/trunk/support/sdk/c/blip/lib6lowpan/trace/Makefile.am
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5801/trunk/support/sdk/c/blip/lib6lowpan/trace/compress.c
+END

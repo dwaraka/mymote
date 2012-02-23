@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561
+END
+HplTSL2561LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/HplTSL2561LogicP.nc
+END
+HalTsl2561ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/HalTsl2561ControlP.nc
+END
+HalTsl2561ReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/HalTsl2561ReaderP.nc
+END
+HplTSL256x.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/HplTSL256x.nc
+END
+HalTsl2561Advanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/HalTsl2561Advanced.nc
+END
+TSL256x.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2977/trunk/tos/chips/tsl2561/TSL256x.h
+END

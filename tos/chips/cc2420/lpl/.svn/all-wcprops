@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5711/trunk/tos/chips/cc2420/lpl
+END
+DummyLplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4735/trunk/tos/chips/cc2420/lpl/DummyLplP.nc
+END
+DefaultLpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4750/trunk/tos/chips/cc2420/lpl/DefaultLpl.h
+END
+DummyLplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4104/trunk/tos/chips/cc2420/lpl/DummyLplC.nc
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3377/trunk/tos/chips/cc2420/lpl/readme.txt
+END
+PowerCycleP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5711/trunk/tos/chips/cc2420/lpl/PowerCycleP.nc
+END
+DefaultLplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4750/trunk/tos/chips/cc2420/lpl/DefaultLplP.nc
+END
+DefaultLplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4735/trunk/tos/chips/cc2420/lpl/DefaultLplC.nc
+END
+PowerCycleC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4735/trunk/tos/chips/cc2420/lpl/PowerCycleC.nc
+END

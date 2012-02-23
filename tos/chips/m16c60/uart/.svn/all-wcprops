@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5677/trunk/tos/chips/m16c60/uart
+END
+M16c60SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5677/trunk/tos/chips/m16c60/uart/M16c60SpiP.nc
+END
+M16c60UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/M16c60UartP.nc
+END
+HplM16c60UartInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/uart/HplM16c60UartInterrupt.nc
+END
+HplM16c60UartInterruptP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/uart/HplM16c60UartInterruptP.nc
+END
+M16c60I2CP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5561/trunk/tos/chips/m16c60/uart/M16c60I2CP.nc
+END
+M16c60SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5677/trunk/tos/chips/m16c60/uart/M16c60SpiC.nc
+END
+M16c60UartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/M16c60UartC.nc
+END
+HplM16c60Uart.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/HplM16c60Uart.nc
+END
+HplM16c60UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/HplM16c60UartP.nc
+END
+M16c60I2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5561/trunk/tos/chips/m16c60/uart/M16c60I2CC.nc
+END
+HplM16c60UartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/HplM16c60UartC.nc
+END
+M16c60Uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5560/trunk/tos/chips/m16c60/uart/M16c60Uart.h
+END

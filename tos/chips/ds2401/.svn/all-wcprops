@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401
+END
+HplDs2401.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/HplDs2401.nc
+END
+Ds2401.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/Ds2401.h
+END
+OneWireMaster.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/OneWireMaster.nc
+END
+HplDs2401C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/HplDs2401C.nc
+END
+OneWireMasterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/OneWireMasterC.nc
+END
+Ds2401ToIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/Ds2401ToIeeeEui64C.nc
+END
+CachedIeeeEui64P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/chips/ds2401/CachedIeeeEui64P.nc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/chips/msp430/timer
+END
+Msp430ClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/chips/msp430/timer/Msp430ClockP.nc
+END
+Msp430XDcoCalib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/chips/msp430/timer/Msp430XDcoCalib.h
+END

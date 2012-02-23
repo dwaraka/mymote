@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/Ipv6
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/Ipv6/TestAppC.nc
+END
+pppprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/pppprint.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/connection.py
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/test.sh
+END
+pppd.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/pppd.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/README.txt
+END
+pppd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/pppd.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/Ipv6/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Ipv6/TestP.nc
+END

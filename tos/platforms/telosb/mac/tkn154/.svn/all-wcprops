@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5663/trunk/tos/platforms/telosb/mac/tkn154
+END
+Makefile.include
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4433/trunk/tos/platforms/telosb/mac/tkn154/Makefile.include
+END
+TKN154_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5586/trunk/tos/platforms/telosb/mac/tkn154/TKN154_platform.h
+END
+Ieee802154BeaconEnabledC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5663/trunk/tos/platforms/telosb/mac/tkn154/Ieee802154BeaconEnabledC.nc
+END
+Ieee802154NonBeaconEnabledC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5588/trunk/tos/platforms/telosb/mac/tkn154/Ieee802154NonBeaconEnabledC.nc
+END
+TKN154TimingP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5588/trunk/tos/platforms/telosb/mac/tkn154/TKN154TimingP.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5572/trunk/tos/platforms/telosb/mac/tkn154/platform_message.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/Lcp
+END
+test-reject.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/test-reject.py
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/Lcp/TestAppC.nc
+END
+pppprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/pppprint.py
+END
+trace.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/trace.py
+END
+test-startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/test-startup.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/connection.py
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/test.sh
+END
+gendata.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/gendata.py
+END
+pppd.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/pppd.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/README.txt
+END
+pppd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/pppd.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/Lcp/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/Lcp/TestP.nc
+END

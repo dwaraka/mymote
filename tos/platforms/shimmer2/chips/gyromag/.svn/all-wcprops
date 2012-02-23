@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5437/trunk/tos/platforms/shimmer2/chips/gyromag
+END
+GyroMagBoardC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5129/trunk/tos/platforms/shimmer2/chips/gyromag/GyroMagBoardC.nc
+END
+GyroMagBoard.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5129/trunk/tos/platforms/shimmer2/chips/gyromag/GyroMagBoard.nc
+END
+GyroMagBoardP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5437/trunk/tos/platforms/shimmer2/chips/gyromag/GyroMagBoardP.nc
+END
+Magnetometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5129/trunk/tos/platforms/shimmer2/chips/gyromag/Magnetometer.h
+END

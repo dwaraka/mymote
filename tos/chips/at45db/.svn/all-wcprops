@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5219/trunk/tos/chips/at45db
+END
+BlockStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2977/trunk/tos/chips/at45db/BlockStorageC.nc
+END
+At45db.nc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5108/trunk/tos/chips/at45db/At45db.nc
+END
+At45dbBlockConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4006/trunk/tos/chips/at45db/At45dbBlockConfig.nc
+END
+At45dbC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4006/trunk/tos/chips/at45db/At45dbC.nc
+END
+LogStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/chips/at45db/LogStorageP.nc
+END
+WireBlockStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/WireBlockStorageP.nc
+END
+HplAt45db.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4006/trunk/tos/chips/at45db/HplAt45db.nc
+END
+ConfigStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2977/trunk/tos/chips/at45db/ConfigStorageC.nc
+END
+Storage_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/at45db/Storage_chip.h
+END
+BlockStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/at45db/BlockStorageP.nc
+END
+WireConfigStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/WireConfigStorageP.nc
+END
+At45dbP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5219/trunk/tos/chips/at45db/At45dbP.nc
+END
+At45dbStorageManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4127/trunk/tos/chips/at45db/At45dbStorageManagerC.nc
+END
+LogStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/at45db/LogStorageC.nc
+END
+ConfigStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4123/trunk/tos/chips/at45db/ConfigStorageP.nc
+END
+At45db.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5108/trunk/tos/chips/at45db/At45db.h
+END
+HplAt45dbByte.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/HplAt45dbByte.nc
+END
+At45dbVolume.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/At45dbVolume.nc
+END
+WireLogStorageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/WireLogStorageP.nc
+END
+HplAt45db.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2399/trunk/tos/chips/at45db/HplAt45db.h
+END
+HplAt45dbByteC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4123/trunk/tos/chips/at45db/HplAt45dbByteC.nc
+END

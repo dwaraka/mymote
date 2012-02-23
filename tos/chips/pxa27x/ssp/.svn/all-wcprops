@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4656/trunk/tos/chips/pxa27x/ssp
+END
+HplPXA27xSSP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HplPXA27xSSP.nc
+END
+HalPXA27xSSPControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2399/trunk/tos/chips/pxa27x/ssp/HalPXA27xSSPControlP.nc
+END
+HalPXA27xSSPCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2399/trunk/tos/chips/pxa27x/ssp/HalPXA27xSSPCntl.nc
+END
+HalPXA27xPSPDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xPSPDMAC.nc
+END
+HalPXA27xSSPDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xSSPDMAC.nc
+END
+HalPXA27xSpiDMAM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HalPXA27xSpiDMAM.nc
+END
+SSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2399/trunk/tos/chips/pxa27x/ssp/SSP.h
+END
+HplPXA27xSSPP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HplPXA27xSSPP.nc
+END
+HalPXA27xuWirePioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xuWirePioC.nc
+END
+HalPXA27xSpiPioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2898/trunk/tos/chips/pxa27x/ssp/HalPXA27xSpiPioC.nc
+END
+HplPXA27xSSP1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HplPXA27xSSP1C.nc
+END
+HplPXA27xSSP2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4656/trunk/tos/chips/pxa27x/ssp/HplPXA27xSSP2C.nc
+END
+HplPXA27xSSP3C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HplPXA27xSSP3C.nc
+END
+HalPXA27xPSPPioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xPSPPioC.nc
+END
+HalPXA27xuWireDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xuWireDMAC.nc
+END
+HalPXA27xSpiDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xSpiDMAC.nc
+END
+HalPXA27xSSPPioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/ssp/HalPXA27xSSPPioC.nc
+END
+HalPXA27xSpiPioM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/ssp/HalPXA27xSpiPioM.nc
+END

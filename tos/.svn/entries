@@ -1,0 +1,83 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos
+http://tinyos-main.googlecode.com/svn
+
+
+
+2012-01-10T01:16:26.380238Z
+5857
+mmaroti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+interfaces
+dir
+
+sensorboards
+dir
+
+types
+dir
+
+system
+dir
+
+.default-platform
+file
+
+
+
+
+2012-01-10T10:32:03.357281Z
+674441960ca1ba2de08ad4e50c9fde98
+2006-07-12T17:03:22.000000Z
+2399
+scipio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+lib
+dir
+
+chips
+dir
+
+platforms
+dir
+

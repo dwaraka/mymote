@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi
+END
+HplSam3SpiChipSelConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiChipSelConfig.nc
+END
+HplSam3SpiInterrupts.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiInterrupts.nc
+END
+HplSam3SpiControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiControl.nc
+END
+HplSam3SpiStatus.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiStatus.nc
+END
+HilSam3SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HilSam3SpiP.nc
+END
+Sam3SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/Sam3SpiP.nc
+END
+FastSpiSam3C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/FastSpiSam3C.nc
+END
+spihardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/spihardware.h
+END
+Sam3Spi0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/Sam3Spi0C.nc
+END
+HplSam3SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiP.nc
+END
+Sam3Spi1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/Sam3Spi1C.nc
+END
+Sam3Spi2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/Sam3Spi2C.nc
+END
+Sam3Spi3C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/Sam3Spi3C.nc
+END
+HplSam3SpiConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiConfig.nc
+END
+HplSam3SpiChipSelP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5427/trunk/tos/chips/cortex/m3/sam3/spi/HplSam3SpiChipSelP.nc
+END

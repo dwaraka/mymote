@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5852/trunk/support/sdk/c/coap
+END
+uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/uri.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/Makefile.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/LICENSE
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/encode.h
+END
+README.COAPBLIP
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5756/trunk/support/sdk/c/coap/README.COAPBLIP
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/AUTHORS
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/uri.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/configure.in
+END
+str.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/str.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/list.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/README
+END
+str.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/str.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/config.h.in
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/list.h
+END
+subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/subscribe.c
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/mem.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/debug.c
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5852/trunk/support/sdk/c/coap/net.c
+END
+subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/subscribe.h
+END
+coap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/coap.h
+END
+pdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/pdu.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/debug.h
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5852/trunk/support/sdk/c/coap/net.h
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/encode.c
+END
+pdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5844/trunk/support/sdk/c/coap/pdu.h
+END

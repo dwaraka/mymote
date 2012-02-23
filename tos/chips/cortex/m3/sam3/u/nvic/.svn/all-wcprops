@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/nvic
+END
+HplNVICC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/nvic/HplNVICC.nc
+END
+sam3unvichardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/nvic/sam3unvichardware.h
+END

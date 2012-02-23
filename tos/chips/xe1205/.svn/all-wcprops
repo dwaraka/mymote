@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5516/trunk/tos/chips/xe1205
+END
+XE1205LowPowerListeningP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/chips/xe1205/XE1205LowPowerListeningP.nc
+END
+XE1205SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205SpiP.nc
+END
+XE1205SendReceiveP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4654/trunk/tos/chips/xe1205/XE1205SendReceiveP.nc
+END
+xe1205debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/xe1205debug.h
+END
+CsmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/CsmaControl.nc
+END
+XE1205LowPowerListening.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/xe1205/XE1205LowPowerListening.h
+END
+LPLControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/LPLControl.nc
+END
+XE1205Fifo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/XE1205Fifo.nc
+END
+XE1205ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205ActiveMessageC.nc
+END
+LowPowerListening.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/xe1205/LowPowerListening.nc
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5108/trunk/tos/chips/xe1205/crc.h
+END
+XE1205SpiImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5516/trunk/tos/chips/xe1205/XE1205SpiImplP.nc
+END
+XE1205SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205SpiC.nc
+END
+XE1205LowPowerListeningC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205LowPowerListeningC.nc
+END
+XE1205SendReceiveC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205SendReceiveC.nc
+END
+XE1205ActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3582/trunk/tos/chips/xe1205/XE1205ActiveMessageP.nc
+END
+XE1205CsmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/chips/xe1205/XE1205CsmaP.nc
+END
+XE1205CsmaRadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/chips/xe1205/XE1205CsmaRadioC.nc
+END
+AckSendReceive.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/AckSendReceive.nc
+END
+XE1205.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/XE1205.h
+END
+XE1205PacketC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/XE1205PacketC.nc
+END

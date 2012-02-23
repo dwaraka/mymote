@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests
+END
+fdx.extra
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/fdx.extra
+END
+accomp.extra
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/accomp.extra
+END
+dco.extra
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/dco.extra
+END
+reps.extra
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/reps.extra
+END
+frame.extra
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/frame.extra
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/gpio
+END
+HalPXA27xGpioCapture.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HalPXA27xGpioCapture.nc
+END
+HalPXA27xGeneralIOM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/gpio/HalPXA27xGeneralIOM.nc
+END
+HalPXA27xSoftCaptureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HalPXA27xSoftCaptureC.nc
+END
+HplPXA27xGPIOPin.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HplPXA27xGPIOPin.nc
+END
+GeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/gpio/GeneralIOC.nc
+END
+HplPXA27xGPIOM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/gpio/HplPXA27xGPIOM.nc
+END
+HalPXA27xGpioInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HalPXA27xGpioInterrupt.nc
+END
+HplPXA27xGPIO.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HplPXA27xGPIO.nc
+END
+HalPXA27xSoftCaptureP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HalPXA27xSoftCaptureP.nc
+END
+HplPXA27xGPIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/gpio/HplPXA27xGPIOC.nc
+END

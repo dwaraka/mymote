@@ -1,0 +1,46 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos/platforms/z1/chips
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-12-30T16:17:54.058682Z
+5856
+alinan@zolertia.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+sht11
+dir
+
+tmp102
+dir
+
+adxl345
+dir
+
+msp430
+dir
+
+stm25p
+dir
+
+cc2420
+dir
+

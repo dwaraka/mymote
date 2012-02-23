@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5828/trunk/tos/chips/atm1281
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5670/trunk/tos/chips/atm1281/McuSleepC.nc
+END
+atm128hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/chips/atm1281/atm128hardware.h
+END
+HplAtm128GeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5828/trunk/tos/chips/atm1281/HplAtm128GeneralIOC.nc
+END
+HplAtm128UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5108/trunk/tos/chips/atm1281/HplAtm128UartP.nc
+END

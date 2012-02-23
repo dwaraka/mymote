@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/chips/stm25p
+END
+Stm25pOffP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/chips/stm25p/Stm25pOffP.nc
+END
+Stm25pPowerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5765/trunk/tos/platforms/ucmini/chips/stm25p/Stm25pPowerP.nc
+END
+Stm25pOffC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/chips/stm25p/Stm25pOffC.nc
+END
+Stm25pPowerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5722/trunk/tos/platforms/ucmini/chips/stm25p/Stm25pPowerC.nc
+END
+HplStm25pPinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/chips/stm25p/HplStm25pPinsC.nc
+END
+Stm25pSectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/chips/stm25p/Stm25pSectorC.nc
+END
+HplStm25pSpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/chips/stm25p/HplStm25pSpiC.nc
+END

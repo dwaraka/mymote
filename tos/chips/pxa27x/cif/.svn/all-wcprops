@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4601/trunk/tos/chips/pxa27x/cif
+END
+PXA27XQuickCaptInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/cif/PXA27XQuickCaptInt.h
+END
+HplPXA27XQuickCaptIntC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/cif/HplPXA27XQuickCaptIntC.nc
+END
+dmaArray.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/cif/dmaArray.nc
+END
+dmaArrayC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3955/trunk/tos/chips/pxa27x/cif/dmaArrayC.nc
+END
+dmaArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4601/trunk/tos/chips/pxa27x/cif/dmaArray.h
+END
+HplPXA27XQuickCaptIntM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4601/trunk/tos/chips/pxa27x/cif/HplPXA27XQuickCaptIntM.nc
+END
+dmaArrayM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3955/trunk/tos/chips/pxa27x/cif/dmaArrayM.nc
+END
+HplPXA27XQuickCaptInt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/cif/HplPXA27XQuickCaptInt.nc
+END

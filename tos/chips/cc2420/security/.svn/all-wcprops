@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5593/trunk/tos/chips/cc2420/security
+END
+SecAMSenderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5593/trunk/tos/chips/cc2420/security/SecAMSenderP.nc
+END
+CC2420KeysP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/security/CC2420KeysP.nc
+END
+CC2420KeysC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc2420/security/CC2420KeysC.nc
+END
+SecAMSenderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5593/trunk/tos/chips/cc2420/security/SecAMSenderC.nc
+END

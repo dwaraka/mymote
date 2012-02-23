@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5436/trunk/tos/platforms/shimmer2/chips/bmp085
+END
+PressureSensor.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5240/trunk/tos/platforms/shimmer2/chips/bmp085/PressureSensor.nc
+END
+PressureSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5240/trunk/tos/platforms/shimmer2/chips/bmp085/PressureSensorC.nc
+END
+Bmp085P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5436/trunk/tos/platforms/shimmer2/chips/bmp085/Bmp085P.nc
+END

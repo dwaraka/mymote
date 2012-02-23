@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5654/trunk/tos/platforms/telosa
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2982/trunk/tos/platforms/telosa/VoltageStreamC.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2982/trunk/tos/platforms/telosa/DemoSensorC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/ActiveMessageC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3416/trunk/tos/platforms/telosa/MoteClockC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4628/trunk/tos/platforms/telosa/hardware.h
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3306/trunk/tos/platforms/telosa/PlatformSerialC.nc
+END
+PlatformLedP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5457/trunk/tos/platforms/telosa/PlatformLedP.nc
+END
+PlatformHdlcUartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5654/trunk/tos/platforms/telosa/PlatformHdlcUartP.nc
+END
+MSP430ADC12ChannelConfigM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2399/trunk/tos/platforms/telosa/MSP430ADC12ChannelConfigM.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2982/trunk/tos/platforms/telosa/DemoSensorStreamC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/PlatformLedsC.nc
+END
+PlatformLed.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5457/trunk/tos/platforms/telosa/PlatformLed.h
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4116/trunk/tos/platforms/telosa/.platform
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5595/trunk/tos/platforms/telosa/TimeSyncMessageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5644/trunk/tos/platforms/telosa/PlatformP.nc
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2982/trunk/tos/platforms/telosa/VoltageC.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2982/trunk/tos/platforms/telosa/DemoSensorNowC.nc
+END
+TelosSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/platforms/telosa/TelosSerialP.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/Ieee154MessageC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3095/trunk/tos/platforms/telosa/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2399/trunk/tos/platforms/telosa/MotePlatformC.nc
+END
+PlatformLedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5457/trunk/tos/platforms/telosa/PlatformLedC.nc
+END
+PlatformHdlcUartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5654/trunk/tos/platforms/telosa/PlatformHdlcUartC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/platforms/telosa/platform_message.h
+END

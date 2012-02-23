@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma
+END
+HplSam3uDmaC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaC.nc
+END
+Sam3uDmaChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/Sam3uDmaChannel.nc
+END
+Sam3uDmaChannelP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/Sam3uDmaChannelP.nc
+END
+HplSam3uDmaXP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaXP.nc
+END
+HplSam3uDmaChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaChannel.nc
+END
+Sam3uDmaControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/Sam3uDmaControlP.nc
+END
+Sam3uDmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/Sam3uDmaControl.nc
+END
+HplSam3uDmaInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaInterrupt.nc
+END
+Sam3uDmaC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/Sam3uDmaC.nc
+END
+HplSam3uDmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaP.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/dma/README
+END
+sam3uDmahardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/sam3uDmahardware.h
+END
+HplSam3uDmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/dma/HplSam3uDmaControl.nc
+END

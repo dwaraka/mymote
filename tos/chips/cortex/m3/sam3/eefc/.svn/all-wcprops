@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/eefc
+END
+eefchardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/eefc/eefchardware.h
+END
+Sam3EefcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/eefc/Sam3EefcC.nc
+END
+HplSam3Eefc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/eefc/HplSam3Eefc.nc
+END
+HplSam3EefcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/eefc/HplSam3EefcC.nc
+END

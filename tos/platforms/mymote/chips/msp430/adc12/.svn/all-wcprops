@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5701/trunk/tos/platforms/z1/chips/msp430/adc12
+END
+Msp430Adc12ImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5689/trunk/tos/platforms/z1/chips/msp430/adc12/Msp430Adc12ImplP.nc
+END
+BatteryP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5689/trunk/tos/platforms/z1/chips/msp430/adc12/BatteryP.nc
+END
+BatteryC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5689/trunk/tos/platforms/z1/chips/msp430/adc12/BatteryC.nc
+END

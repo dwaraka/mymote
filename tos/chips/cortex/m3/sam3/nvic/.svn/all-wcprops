@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic
+END
+HplNVICInterruptP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic/HplNVICInterruptP.nc
+END
+HplNVICInterruptCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic/HplNVICInterruptCntl.nc
+END
+HplNVICCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic/HplNVICCntl.nc
+END
+HplNVICCntlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic/HplNVICCntlP.nc
+END
+nvichardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/nvic/nvichardware.h
+END

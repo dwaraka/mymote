@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175
+END
+HplTMP175.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/HplTMP175.nc
+END
+HalTMP175ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/HalTMP175ControlP.nc
+END
+TMP175.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/TMP175.h
+END
+HalTMP175ReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/HalTMP175ReaderP.nc
+END
+HalTMP175Advanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/HalTMP175Advanced.nc
+END
+HplTMP175LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/tmp175/HplTMP175LogicP.nc
+END

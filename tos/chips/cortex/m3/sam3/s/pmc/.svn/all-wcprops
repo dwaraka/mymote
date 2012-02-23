@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5695/trunk/tos/chips/cortex/m3/sam3/s/pmc
+END
+HplSam3sClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5695/trunk/tos/chips/cortex/m3/sam3/s/pmc/HplSam3sClockP.nc
+END
+HplSam3sClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/s/pmc/HplSam3sClockC.nc
+END
+sam3spmchardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/s/pmc/sam3spmchardware.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5397/trunk/tos/chips/cortex/m3/sam3/pins
+END
+HplSam3GeneralIOPortP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOPortP.nc
+END
+HplSam3GeneralIOPort.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOPort.nc
+END
+HplSam3GeneralIOPinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5397/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOPinP.nc
+END
+HplSam3GeneralIOPin.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5397/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOPin.nc
+END
+HplSam3GeneralIOPioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOPioC.nc
+END
+HplSam3GeneralIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/pins/HplSam3GeneralIOP.nc
+END

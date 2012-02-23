@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5772/trunk/tos/chips/cc2420x
+END
+CC2420XDriverLayerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5717/trunk/tos/chips/cc2420x/CC2420XDriverLayerC.nc
+END
+CC2420XRadioP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5527/trunk/tos/chips/cc2420x/CC2420XRadioP.nc
+END
+CC2420XDriverLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5462/trunk/tos/chips/cc2420x/CC2420XDriverLayer.h
+END
+CC2420XRadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5717/trunk/tos/chips/cc2420x/CC2420XRadioC.nc
+END
+CC2420XDriverConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5222/trunk/tos/chips/cc2420x/CC2420XDriverConfig.nc
+END
+CC2420XActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5717/trunk/tos/chips/cc2420x/CC2420XActiveMessageC.nc
+END
+CC2420XTimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5772/trunk/tos/chips/cc2420x/CC2420XTimeSyncMessageC.nc
+END
+CC2420XRadio.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5646/trunk/tos/chips/cc2420x/CC2420XRadio.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5222/trunk/tos/chips/cc2420x/README.txt
+END
+CC2420XDriverLayerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5717/trunk/tos/chips/cc2420x/CC2420XDriverLayerP.nc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5708/trunk/tos/platforms/shimmer/chips/sd
+END
+SDP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5150/trunk/tos/platforms/shimmer/chips/sd/SDP.nc
+END
+SD.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4690/trunk/tos/platforms/shimmer/chips/sd/SD.nc
+END
+SDC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4689/trunk/tos/platforms/shimmer/chips/sd/SDC.nc
+END
+SD.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4023/trunk/tos/platforms/shimmer/chips/sd/SD.h
+END
+Storage_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4191/trunk/tos/platforms/shimmer/chips/sd/Storage_chip.h
+END

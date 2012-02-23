@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5108/trunk/tos/chips/pxa27x
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4286/trunk/tos/chips/pxa27x/McuSleepC.nc
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/inttypes.h
+END
+HplPXA27xInterruptM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/HplPXA27xInterruptM.nc
+END
+pxa27x_registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/pxa27x_registers.h
+END
+arm_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/arm_defs.h
+END
+pxa27x_util.s
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/pxa27x_util.s
+END
+HplPXA27xInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/HplPXA27xInterrupt.nc
+END
+HplPXA27xInterruptCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/HplPXA27xInterruptCntl.nc
+END
+pxa27xhardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/pxa27x/pxa27xhardware.h
+END

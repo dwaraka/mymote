@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/p30
+END
+P30BlockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30BlockC.nc
+END
+P30LogP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30LogP.nc
+END
+HplP30P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/p30/HplP30P.nc
+END
+P30.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/p30/P30.h
+END
+HalP30C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/HalP30C.nc
+END
+P30ConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30ConfigC.nc
+END
+Flash.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/p30/Flash.nc
+END
+P30BlockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30BlockP.nc
+END
+Storage_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/p30/Storage_chip.h
+END
+FlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/FlashC.nc
+END
+HplP30.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/p30/HplP30.nc
+END
+HalP30P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/HalP30P.nc
+END
+P30LogC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30LogC.nc
+END
+P30ConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30ConfigP.nc
+END
+P30LogCircularP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/p30/P30LogCircularP.nc
+END

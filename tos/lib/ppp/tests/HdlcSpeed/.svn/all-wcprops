@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/HdlcSpeed
+END
+payload.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcSpeed/payload.py
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/HdlcSpeed/TestAppC.nc
+END
+gendata.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcSpeed/gendata.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcSpeed/README.txt
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcSpeed/config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/HdlcSpeed/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcSpeed/TestP.nc
+END

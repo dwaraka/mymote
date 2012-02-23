@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5771/trunk/tos/chips/atm128rfa1/pins
+END
+HplAtmegaExtInterruptP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterruptP.nc
+END
+HplAtmegaExtInterruptSigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterruptSigP.nc
+END
+HplAtmegaExtInterrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterrupt.h
+END
+AtmegaGeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5771/trunk/tos/chips/atm128rfa1/pins/AtmegaGeneralIOC.nc
+END
+AtmegaPinChangeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/AtmegaPinChangeP.nc
+END
+AtmegaPinChange0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/AtmegaPinChange0C.nc
+END
+AtmegaExtInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/AtmegaExtInterruptC.nc
+END
+AtmegaPinChange1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/AtmegaPinChange1C.nc
+END
+HplAtmegaExtInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterrupt.nc
+END
+HplAtmegaPinChange0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/HplAtmegaPinChange0C.nc
+END
+HplAtmegaPinChange1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/HplAtmegaPinChange1C.nc
+END
+HplAtmegaExtInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterruptC.nc
+END
+HplAtmegaExtInterruptSig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5752/trunk/tos/chips/atm128rfa1/pins/HplAtmegaExtInterruptSig.nc
+END
+AtmegaGeneralIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5771/trunk/tos/chips/atm128rfa1/pins/AtmegaGeneralIOP.nc
+END
+AtmegaExtInterruptP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/AtmegaExtInterruptP.nc
+END
+HplAtmegaPinChange.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/pins/HplAtmegaPinChange.nc
+END

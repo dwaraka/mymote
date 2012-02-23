@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5715/trunk/tos/chips/atm1281/adc
+END
+Atm128AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5714/trunk/tos/chips/atm1281/adc/Atm128AdcP.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5715/trunk/tos/chips/atm1281/adc/AdcP.nc
+END
+HplAtm128AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/atm1281/adc/HplAtm128AdcP.nc
+END
+Atm128Adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/atm1281/adc/Atm128Adc.h
+END
+WireAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5714/trunk/tos/chips/atm1281/adc/WireAdcP.nc
+END

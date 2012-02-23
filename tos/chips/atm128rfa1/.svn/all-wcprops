@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5798/trunk/tos/chips/atm128rfa1
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/McuSleepC.nc
+END
+DummyBusPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5777/trunk/tos/chips/atm128rfa1/DummyBusPowerManagerC.nc
+END
+atm128hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/atm128hardware.h
+END
+BusPowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5798/trunk/tos/chips/atm128rfa1/BusPowerManagerP.nc
+END
+BusPowerManager.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5777/trunk/tos/chips/atm128rfa1/BusPowerManager.nc
+END
+BusPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5798/trunk/tos/chips/atm128rfa1/BusPowerManagerC.nc
+END
+McuInitP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5737/trunk/tos/chips/atm128rfa1/McuInitP.nc
+END
+McuInitC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5737/trunk/tos/chips/atm128rfa1/McuInitC.nc
+END
+HplAtm128UartP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/HplAtm128UartP.nc
+END
+HplAtm128UartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5720/trunk/tos/chips/atm128rfa1/HplAtm128UartC.nc
+END

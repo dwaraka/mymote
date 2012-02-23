@@ -1,0 +1,61 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos/platforms/shimmer2/chips
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-09-09T19:24:44.390141Z
+5732
+ayer@handhelds.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+gyro
+dir
+
+gyromag
+dir
+
+cc2420x
+dir
+
+bluetooth
+dir
+
+sd
+dir
+
+straingauge
+dir
+
+bmp085
+dir
+
+hmc5843
+dir
+
+tilt
+dir
+
+cc2420
+dir
+
+fgpmmopa6b
+dir
+

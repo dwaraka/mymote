@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5829/trunk/tos/platforms/iris
+END
+PlatformLed.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5829/trunk/tos/platforms/iris/PlatformLed.h
+END
+MeasureClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/MeasureClockC.nc
+END
+MicaTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/MicaTimer.h
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5595/trunk/tos/platforms/iris/TimeSyncMessageC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/ActiveMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5202/trunk/tos/platforms/iris/.platform
+END
+LocalTimeMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/LocalTimeMicroC.nc
+END
+PlatformLedP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5829/trunk/tos/platforms/iris/PlatformLedP.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/Ieee154MessageC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5159/trunk/tos/platforms/iris/platform.h
+END
+PlatformLedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5829/trunk/tos/platforms/iris/PlatformLedC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/iris/platform_message.h
+END

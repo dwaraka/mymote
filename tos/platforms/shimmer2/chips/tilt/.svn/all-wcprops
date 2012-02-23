@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5481/trunk/tos/platforms/shimmer2/chips/tilt
+END
+TiltDetectorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5481/trunk/tos/platforms/shimmer2/chips/tilt/TiltDetectorP.nc
+END
+TiltDetectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5481/trunk/tos/platforms/shimmer2/chips/tilt/TiltDetectorC.nc
+END
+HplTiltDetectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5131/trunk/tos/platforms/shimmer2/chips/tilt/HplTiltDetectorC.nc
+END

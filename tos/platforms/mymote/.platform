@@ -1,0 +1,51 @@
+push( @includes, qw(
+  %T/platforms/mymote
+  %T/platforms/mymote/chips/msp430
+  %T/platforms/mymote/chips/msp430/adc12
+  %T/platforms/mymote/chips/msp430/usci
+  %T/platforms/mymote/chips/msp430/timer
+  
+  %T/platforms/mymote/chips/cc2420
+  
+  %T/platforms/mymote/chips/stm25p
+  %T/platforms/mymote/chips/tmp102
+  %T/chips/cc2520
+  %T/chips/cc2520/alarm
+  %T/chips/cc2520/control
+  %T/chips/cc2520/csma
+  %T/chips/cc2520/interfaces
+  %T/chips/cc2520/link
+  %T/chips/cc2520/lowpan
+  %T/chips/cc2520/lpl
+  %T/chips/cc2520/packet
+  %T/chips/cc2520/receive
+  %T/chips/cc2520/spi
+  %T/chips/cc2520/transmit
+  %T/chips/cc2520/unique
+  %T/chips/cc2520/security
+  %T/chips/msp430
+  %T/chips/msp430/adc12
+  %T/chips/msp430/dma
+  %T/chips/msp430/pins
+  %T/chips/msp430/timer
+  %T/chips/msp430/sensors
+  %T/chips/msp430/x2xxx
+  %T/chips/msp430/x2xxx/usci
+  %T/chips/stm25p
+  %T/chips/sht11
+  %T/chips/tmp102
+  %T/chips/adxl345
+  %T/lib/timer
+  %T/lib/serial
+  %T/lib/power
+  %T/lib/rfxlink
+%T/lib/rfxlink/layers
+) );
+
+@opts = qw(
+  -gcc=msp430-gcc-4.5.3
+  -mmcu=msp430x2618
+  -fnesc-target=msp430
+  -fnesc-no-debug
+  -fnesc-scheduler=TinySchedulerC,TinySchedulerC.TaskBasic,TaskBasic,TaskBasic,runTask,postTask
+);

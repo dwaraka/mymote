@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5605/trunk/tos/platforms/shimmer/chips/bluetooth
+END
+RovingNetworksP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5605/trunk/tos/platforms/shimmer/chips/bluetooth/RovingNetworksP.nc
+END
+RovingNetworksC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4687/trunk/tos/platforms/shimmer/chips/bluetooth/RovingNetworksC.nc
+END
+Bluetooth.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5268/trunk/tos/platforms/shimmer/chips/bluetooth/Bluetooth.nc
+END
+RovingNetworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4687/trunk/tos/platforms/shimmer/chips/bluetooth/RovingNetworks.h
+END
+bluetoothBaudrateConversion.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4981/trunk/tos/platforms/shimmer/chips/bluetooth/bluetoothBaudrateConversion.pdf
+END

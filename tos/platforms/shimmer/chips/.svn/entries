@@ -1,0 +1,55 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos/platforms/shimmer/chips
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-08-24T16:26:36.729592Z
+5709
+ayer@handhelds.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+rmcm01
+dir
+
+cc2420x
+dir
+
+bluetooth
+dir
+
+msp430
+dir
+
+sd
+dir
+
+mma7260
+dir
+
+gsr
+dir
+
+cc2420
+dir
+
+ds2411
+dir
+

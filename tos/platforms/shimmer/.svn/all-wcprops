@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5726/trunk/tos/platforms/shimmer
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/DemoSensorC.nc
+END
+HplUserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4993/trunk/tos/platforms/shimmer/HplUserButtonC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/MoteClockC.nc
+END
+CounterMilli64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/CounterMilli64C.nc
+END
+LocalTime64.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/LocalTime64.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5025/trunk/tos/platforms/shimmer/hardware.h
+END
+ShimmerSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/ShimmerSerialP.nc
+END
+Time.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/Time.h
+END
+Leds.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/Leds.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/PlatformC.nc
+END
+UserButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5673/trunk/tos/platforms/shimmer/UserButtonP.nc
+END
+HostTime.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5091/trunk/tos/platforms/shimmer/HostTime.nc
+END
+Time.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5091/trunk/tos/platforms/shimmer/Time.nc
+END
+HostTimeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5163/trunk/tos/platforms/shimmer/HostTimeC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/PlatformLedsC.nc
+END
+shimmerMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4985/trunk/tos/platforms/shimmer/shimmerMessage.h
+END
+UserButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4993/trunk/tos/platforms/shimmer/UserButton.h
+END
+TimeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5013/trunk/tos/platforms/shimmer/TimeC.nc
+END
+shimmerAnalogSetup.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5582/trunk/tos/platforms/shimmer/shimmerAnalogSetup.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/LedsP.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/platform.h
+END
+UserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4993/trunk/tos/platforms/shimmer/UserButtonC.nc
+END
+Counter32khz64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5229/trunk/tos/platforms/shimmer/Counter32khz64C.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/platform_message.h
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4160/trunk/tos/platforms/shimmer/VoltageStreamC.nc
+END
+CounterMicro32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5412/trunk/tos/platforms/shimmer/CounterMicro32C.nc
+END
+shimmerAnalogSetupP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5582/trunk/tos/platforms/shimmer/shimmerAnalogSetupP.nc
+END
+NoLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5210/trunk/tos/platforms/shimmer/NoLedsC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/PlatformSerialC.nc
+END
+CounterToLocalTime64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/CounterToLocalTime64C.nc
+END
+LedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/LedsC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4160/trunk/tos/platforms/shimmer/DemoSensorStreamC.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5726/trunk/tos/platforms/shimmer/.platform
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/VoltageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5644/trunk/tos/platforms/shimmer/PlatformP.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4160/trunk/tos/platforms/shimmer/DemoSensorNowC.nc
+END
+SwitchToggleC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4993/trunk/tos/platforms/shimmer/SwitchToggleC.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/Ieee154MessageC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer/Msp430Timer32khzMapC.nc
+END
+shimmerAnalogSetupC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5014/trunk/tos/platforms/shimmer/shimmerAnalogSetupC.nc
+END
+HostTimeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5091/trunk/tos/platforms/shimmer/HostTimeP.nc
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4932/trunk/tos/platforms/shimmer/MotePlatformC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3936/trunk/tos/platforms/shimmer/README.txt
+END
+TimeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5151/trunk/tos/platforms/shimmer/TimeP.nc
+END

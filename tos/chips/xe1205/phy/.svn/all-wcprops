@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4967/trunk/tos/chips/xe1205/phy
+END
+XE1205PhyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4967/trunk/tos/chips/xe1205/phy/XE1205PhyP.nc
+END
+XE1205PhyRssi.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4307/trunk/tos/chips/xe1205/phy/XE1205PhyRssi.nc
+END
+XE1205PhySwitchP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/phy/XE1205PhySwitchP.nc
+END
+XE1205PhySwitch.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/phy/XE1205PhySwitch.nc
+END
+XE1205PhyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3445/trunk/tos/chips/xe1205/phy/XE1205PhyC.nc
+END
+XE1205PhySwitchC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2399/trunk/tos/chips/xe1205/phy/XE1205PhySwitchC.nc
+END
+XE1205PhyRxTx.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4281/trunk/tos/chips/xe1205/phy/XE1205PhyRxTx.nc
+END

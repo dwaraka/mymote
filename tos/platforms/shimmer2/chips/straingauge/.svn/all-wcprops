@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5596/trunk/tos/platforms/shimmer2/chips/straingauge
+END
+StrainGauge.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5577/trunk/tos/platforms/shimmer2/chips/straingauge/StrainGauge.nc
+END
+StrainGaugeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5596/trunk/tos/platforms/shimmer2/chips/straingauge/StrainGaugeP.nc
+END
+StrainGaugeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5577/trunk/tos/platforms/shimmer2/chips/straingauge/StrainGaugeC.nc
+END

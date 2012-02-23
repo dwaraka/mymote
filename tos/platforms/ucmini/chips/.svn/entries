@@ -1,0 +1,43 @@
+10
+
+dir
+5857
+http://tinyos-main.googlecode.com/svn/trunk/tos/platforms/ucmini/chips
+http://tinyos-main.googlecode.com/svn
+
+
+
+2011-10-15T22:37:53.896346Z
+5777
+mmaroti
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+285f258d-8064-b571-fbc6-9656dc998e90
+
+ms5607
+dir
+
+sht21
+dir
+
+bma180
+dir
+
+stm25p
+dir
+
+bh1750fvi
+dir
+

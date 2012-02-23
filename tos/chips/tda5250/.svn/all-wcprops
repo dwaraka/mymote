@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5108/trunk/tos/chips/tda5250
+END
+HplTda5250ConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/HplTda5250ConfigC.nc
+END
+tda5250Const.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/tda5250Const.h
+END
+HplTda5250Data.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/HplTda5250Data.nc
+END
+tda5250RegDefaultsSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/tda5250RegDefaultsSettings.h
+END
+Tda5250RadioP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4071/trunk/tos/chips/tda5250/Tda5250RadioP.nc
+END
+HplTda5250DataControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2880/trunk/tos/chips/tda5250/HplTda5250DataControl.nc
+END
+RfPower.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4016/trunk/tos/chips/tda5250/RfPower.nc
+END
+Tda5250Control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250Control.nc
+END
+HplTda5250DataC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/HplTda5250DataC.nc
+END
+Tda5250ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/tda5250/Tda5250ActiveMessageC.nc
+END
+Tda5250RegistersP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250RegistersP.nc
+END
+Tda5250WriteReg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250WriteReg.nc
+END
+Tda5250RegComm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2399/trunk/tos/chips/tda5250/Tda5250RegComm.nc
+END
+tda5250RegTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/tda5250RegTypes.h
+END
+HplTda5250ConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4016/trunk/tos/chips/tda5250/HplTda5250ConfigP.nc
+END
+HplTda5250DataP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/HplTda5250DataP.nc
+END
+Tda5250ActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/tda5250/Tda5250ActiveMessageP.nc
+END
+Tda5250RadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4058/trunk/tos/chips/tda5250/Tda5250RadioC.nc
+END
+ClkDiv.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3102/trunk/tos/chips/tda5250/ClkDiv.nc
+END
+Tda5250Packet.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3465/trunk/tos/chips/tda5250/Tda5250Packet.nc
+END
+tda5250Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/tda5250Control.h
+END
+Tda5250ReadReg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250ReadReg.nc
+END
+Tda5250RegCommP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250RegCommP.nc
+END
+HplTda5250Config.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/HplTda5250Config.nc
+END
+tda5250_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4233/trunk/tos/chips/tda5250/tda5250_message.h
+END
+Tda5250RegistersC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/tda5250/Tda5250RegistersC.nc
+END

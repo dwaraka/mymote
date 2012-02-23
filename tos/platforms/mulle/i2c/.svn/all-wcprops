@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/i2c
+END
+MulleI2C2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/MulleI2C2C.nc
+END
+MulleI2C.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/MulleI2C.h
+END
+SoftwareI2CPacketC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/i2c/SoftwareI2CPacketC.nc
+END
+SharedI2CPacketP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/SharedI2CPacketP.nc
+END
+MulleI2C2P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/MulleI2C2P.nc
+END
+SharedI2CPacketC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/SharedI2CPacketC.nc
+END
+MulleI2C2ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5561/trunk/tos/platforms/mulle/i2c/MulleI2C2ControlP.nc
+END

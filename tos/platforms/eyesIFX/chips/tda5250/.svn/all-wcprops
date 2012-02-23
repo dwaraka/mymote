@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4143/trunk/tos/platforms/eyesIFX/chips/tda5250
+END
+Tda5250RegCommC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/chips/tda5250/Tda5250RegCommC.nc
+END
+Tda5250RadioInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/chips/tda5250/Tda5250RadioInterruptC.nc
+END
+Tda5250ASKNFSKFakePinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2880/trunk/tos/platforms/eyesIFX/chips/tda5250/Tda5250ASKNFSKFakePinP.nc
+END
+HplTda5250DataIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3942/trunk/tos/platforms/eyesIFX/chips/tda5250/HplTda5250DataIOP.nc
+END
+HplTda5250DataIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3942/trunk/tos/platforms/eyesIFX/chips/tda5250/HplTda5250DataIOC.nc
+END
+eyesIFXBaudrates.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3831/trunk/tos/platforms/eyesIFX/chips/tda5250/eyesIFXBaudrates.h
+END
+tda5250BusResourceSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4143/trunk/tos/platforms/eyesIFX/chips/tda5250/tda5250BusResourceSettings.h
+END
+Tda5250RadioIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/chips/tda5250/Tda5250RadioIOC.nc
+END
+tda5250RegDefaultSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4143/trunk/tos/platforms/eyesIFX/chips/tda5250/tda5250RegDefaultSettings.h
+END

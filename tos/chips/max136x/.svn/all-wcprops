@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2977/trunk/tos/chips/max136x
+END
+HalMAX136xAdvanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/HalMAX136xAdvanced.nc
+END
+HplMAX136xLogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/HplMAX136xLogicP.nc
+END
+HplMAX136x.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/HplMAX136x.nc
+END
+HalMAX136xControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/HalMAX136xControlP.nc
+END
+MAX136x.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/MAX136x.h
+END
+HalMAX136xReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2977/trunk/tos/chips/max136x/HalMAX136xReaderP.nc
+END

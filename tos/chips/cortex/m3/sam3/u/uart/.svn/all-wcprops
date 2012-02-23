@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/u/uart
+END
+sam3uarthardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/u/uart/sam3uarthardware.h
+END
+HilSam3UartC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5393/trunk/tos/chips/cortex/m3/sam3/u/uart/HilSam3UartC.nc
+END

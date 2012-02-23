@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5747/trunk/tos/chips/msp430/dma
+END
+Msp430DmaChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/dma/Msp430DmaChannel.nc
+END
+Msp430DmaChannelP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/Msp430DmaChannelP.nc
+END
+HplMsp430DmaXP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/HplMsp430DmaXP.nc
+END
+HplMsp430DmaChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/dma/HplMsp430DmaChannel.nc
+END
+Msp430DmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/dma/Msp430DmaControl.nc
+END
+HplMsp430DmaInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/dma/HplMsp430DmaInterrupt.nc
+END
+Msp430DmaControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/Msp430DmaControlP.nc
+END
+Msp430DmaC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/Msp430DmaC.nc
+END
+HplMsp430DmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5747/trunk/tos/chips/msp430/dma/HplMsp430DmaP.nc
+END
+HplMsp430DmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5108/trunk/tos/chips/msp430/dma/HplMsp430DmaControl.nc
+END
+Msp430Dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/Msp430Dma.h
+END
+HplMsp430DmaC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5689/trunk/tos/chips/msp430/dma/HplMsp430DmaC.nc
+END

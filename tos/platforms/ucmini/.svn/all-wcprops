@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5854/trunk/tos/platforms/ucmini
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5777/trunk/tos/platforms/ucmini/DemoSensorC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/hardware.h
+END
+SerialResetC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/SerialResetC.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/PlatformC.nc
+END
+Leds.nc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/Leds.nc
+END
+UserButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/UserButtonP.nc
+END
+RCCalibrateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5722/trunk/tos/platforms/ucmini/RCCalibrateP.nc
+END
+HumidityC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5798/trunk/tos/platforms/ucmini/HumidityC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/PlatformLedsC.nc
+END
+TemperatureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5798/trunk/tos/platforms/ucmini/TemperatureC.nc
+END
+UserButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/UserButton.h
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/LedsP.nc
+END
+RadioConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5753/trunk/tos/platforms/ucmini/RadioConfig.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5722/trunk/tos/platforms/ucmini/platform.h
+END
+UserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/UserButtonC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/platform_message.h
+END
+HplSerialAutoControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5771/trunk/tos/platforms/ucmini/HplSerialAutoControlC.nc
+END
+NoLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/NoLedsC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/PlatformSerialC.nc
+END
+SerialAutoControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/SerialAutoControlP.nc
+END
+LedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/LedsC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5779/trunk/tos/platforms/ucmini/DemoSensorStreamC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/README
+END
+I2CBusPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5779/trunk/tos/platforms/ucmini/I2CBusPowerManagerC.nc
+END
+SerialResetP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/SerialResetP.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5854/trunk/tos/platforms/ucmini/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5737/trunk/tos/platforms/ucmini/PlatformP.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5780/trunk/tos/platforms/ucmini/DemoSensorNowC.nc
+END
+LightC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5798/trunk/tos/platforms/ucmini/LightC.nc
+END
+RCCalibrate.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5722/trunk/tos/platforms/ucmini/RCCalibrate.nc
+END
+PressureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5798/trunk/tos/platforms/ucmini/PressureC.nc
+END
+SerialAutoControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5720/trunk/tos/platforms/ucmini/SerialAutoControlC.nc
+END

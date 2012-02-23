@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5725/trunk/tos/platforms/span
+END
+SpanSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5026/trunk/tos/platforms/span/SpanSerialP.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/platforms/span/ActiveMessageC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5026/trunk/tos/platforms/span/MoteClockC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5026/trunk/tos/platforms/span/hardware.h
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5026/trunk/tos/platforms/span/PlatformSerialC.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/platforms/span/PlatformC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5108/trunk/tos/platforms/span/PlatformLedsC.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/platforms/span/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5725/trunk/tos/platforms/span/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5644/trunk/tos/platforms/span/PlatformP.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5108/trunk/tos/platforms/span/LedsP.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/span/Ieee154MessageC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/platforms/span/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5026/trunk/tos/platforms/span/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5048/trunk/tos/platforms/span/MotePlatformC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/span/platform_message.h
+END

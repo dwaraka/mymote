@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5571/trunk/tos/platforms/shimmer/chips/cc2420x
+END
+Msp430ClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5566/trunk/tos/platforms/shimmer/chips/cc2420x/Msp430ClockP.nc
+END
+ShimmerSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/ShimmerSerialP.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5549/trunk/tos/platforms/shimmer/chips/cc2420x/README.txt
+END

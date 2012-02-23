@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/HdlcEcho
+END
+TestAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5645/trunk/tos/lib/ppp/tests/HdlcEcho/TestAppC.nc
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcEcho/test.sh
+END
+gendata.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcEcho/gendata.py
+END
+inhibit_accomp.extra
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcEcho/inhibit_accomp.extra
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcEcho/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5584/trunk/tos/lib/ppp/tests/HdlcEcho/Makefile
+END
+TestP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5461/trunk/tos/lib/ppp/tests/HdlcEcho/TestP.nc
+END

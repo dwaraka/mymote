@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5638/trunk/tos/chips/m16c60/pins
+END
+HplM16c60InterruptSig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60InterruptSig.nc
+END
+HplM16c60InterruptSigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60InterruptSigP.nc
+END
+HplM16c60InterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60InterruptC.nc
+END
+HplM16c60GeneralIOPinPRC2P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60GeneralIOPinPRC2P.nc
+END
+HplM16c60InterruptPinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60InterruptPinP.nc
+END
+HplM16c60GeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60GeneralIOC.nc
+END
+M16c60Pin.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/M16c60Pin.h
+END
+HplM16c60GeneralIOPortP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60GeneralIOPortP.nc
+END
+M16c60InterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5638/trunk/tos/chips/m16c60/pins/M16c60InterruptC.nc
+END
+HplM16c60GeneralIOPinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60GeneralIOPinP.nc
+END
+HplM16c60Interrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5515/trunk/tos/chips/m16c60/pins/HplM16c60Interrupt.nc
+END

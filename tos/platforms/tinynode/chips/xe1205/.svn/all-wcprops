@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5516/trunk/tos/platforms/tinynode/chips/xe1205
+END
+Xe1205Spi0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3445/trunk/tos/platforms/tinynode/chips/xe1205/Xe1205Spi0C.nc
+END
+HplXE1205PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2399/trunk/tos/platforms/tinynode/chips/xe1205/HplXE1205PinsC.nc
+END
+HplXE1205SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3449/trunk/tos/platforms/tinynode/chips/xe1205/HplXE1205SpiC.nc
+END
+HplXE1205InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2399/trunk/tos/platforms/tinynode/chips/xe1205/HplXE1205InterruptsC.nc
+END
+Xe1205SpiNoDmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5516/trunk/tos/platforms/tinynode/chips/xe1205/Xe1205SpiNoDmaP.nc
+END
+Xe1205SpiNoDma0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3445/trunk/tos/platforms/tinynode/chips/xe1205/Xe1205SpiNoDma0P.nc
+END

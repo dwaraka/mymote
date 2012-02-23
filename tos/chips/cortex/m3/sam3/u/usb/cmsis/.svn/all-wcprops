@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/cmsis
+END
+core_cm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/cmsis/core_cm3.h
+END
+core_cm3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/cmsis/core_cm3.c
+END

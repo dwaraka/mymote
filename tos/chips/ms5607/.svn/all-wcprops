@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607
+END
+Ms5607P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607P.nc
+END
+Ms5607C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607C.nc
+END
+Ms5607ArbitratedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607ArbitratedC.nc
+END
+Ms5607RawPressureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607RawPressureC.nc
+END
+Ms5607.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607.h
+END
+Ms5607RawTemperatureC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5798/trunk/tos/chips/ms5607/Ms5607RawTemperatureC.nc
+END

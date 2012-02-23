@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart
+END
+Sam3uUsart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart0C.nc
+END
+Sam3uUsart1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart1C.nc
+END
+Sam3uUsart2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart2C.nc
+END
+HplSam3uUsart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart0C.nc
+END
+HplSam3uUsart1C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart1C.nc
+END
+HplSam3uUsart2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart2C.nc
+END
+Sam3uUsart.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5589/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart.nc
+END
+Sam3uUsart0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart0P.nc
+END
+Sam3uUsart1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart1P.nc
+END
+Sam3uUsart2P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/Sam3uUsart2P.nc
+END
+HplSam3uUsart0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart0P.nc
+END
+sam3uusarthardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/sam3uusarthardware.h
+END
+HplSam3uUsart1P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart1P.nc
+END
+HplSam3uUsartControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsartControl.nc
+END
+HplSam3uUsart2P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5661/trunk/tos/chips/cortex/m3/sam3/u/usart/HplSam3uUsart2P.nc
+END

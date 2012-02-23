@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000
+END
+ByteRadio.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3979/trunk/tos/chips/cc1000/ByteRadio.nc
+END
+CC1000SendReceiveP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000SendReceiveP.nc
+END
+CsmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CsmaControl.nc
+END
+CC1000Const.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4006/trunk/tos/chips/cc1000/CC1000Const.h
+END
+CC1000Msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4361/trunk/tos/chips/cc1000/CC1000Msg.h
+END
+CC1000Control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000Control.nc
+END
+CC1000TimeSyncMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000TimeSyncMessageP.nc
+END
+PacketTimeSyncOffset.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/PacketTimeSyncOffset.nc
+END
+HplCC1000.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/HplCC1000.nc
+END
+CC1000ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000ActiveMessageC.nc
+END
+CC1000SquelchP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000SquelchP.nc
+END
+CC1000TimeSyncMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000TimeSyncMessage.h
+END
+HplCC1000Spi.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/HplCC1000Spi.nc
+END
+CC1000ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000ControlP.nc
+END
+CC1000ActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000ActiveMessageP.nc
+END
+CC1000RssiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000RssiP.nc
+END
+CC1000TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000TimeSyncMessageC.nc
+END
+CC1000CsmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000CsmaP.nc
+END
+CC1000Squelch.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000Squelch.nc
+END
+CC1000CsmaRadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5108/trunk/tos/chips/cc1000/CC1000CsmaRadioC.nc
+END

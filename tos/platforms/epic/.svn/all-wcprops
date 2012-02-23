@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5644/trunk/tos/platforms/epic
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/VoltageStreamC.nc
+END
+HplUserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/HplUserButtonC.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/DemoSensorC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/MoteClockC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5108/trunk/tos/platforms/epic/hardware.h
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/platforms/epic/PlatformC.nc
+END
+UserButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/UserButtonP.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/DemoSensorStreamC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/PlatformLedsC.nc
+END
+MoteClockP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/MoteClockP.nc
+END
+UserButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/UserButton.h
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4997/trunk/tos/platforms/epic/.platform
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/VoltageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5644/trunk/tos/platforms/epic/PlatformP.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/DemoSensorNowC.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/epic/Ieee154MessageC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4997/trunk/tos/platforms/epic/MotePlatformC.nc
+END
+UserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4333/trunk/tos/platforms/epic/UserButtonC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5108/trunk/tos/platforms/epic/platform_message.h
+END

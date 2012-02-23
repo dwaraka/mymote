@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5856/trunk/tos/platforms/z1
+END
+HplUserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/HplUserButtonC.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/DemoSensorC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/hardware.h
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/PlatformSerialC.nc
+END
+PlatformLedP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/PlatformLedP.nc
+END
+UserButtonP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/UserButtonP.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5786/trunk/tos/platforms/z1/DemoSensorStreamC.nc
+END
+LedsIntensity.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/LedsIntensity.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/PlatformLedsC.nc
+END
+PlatformLed.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/PlatformLed.h
+END
+LedsIntensityC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/LedsIntensityC.nc
+END
+UserButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/UserButton.h
+END
+LocalIeeeEui64C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5700/trunk/tos/platforms/z1/LocalIeeeEui64C.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5855/trunk/tos/platforms/z1/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5748/trunk/tos/platforms/z1/PlatformP.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5786/trunk/tos/platforms/z1/DemoSensorNowC.nc
+END
+SwitchToggleC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/SwitchToggleC.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/Ieee154MessageC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/platform.h
+END
+PlatformLedC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5856/trunk/tos/platforms/z1/PlatformLedC.nc
+END
+UserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/UserButtonC.nc
+END
+LedsIntensityP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/LedsIntensityP.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5690/trunk/tos/platforms/z1/platform_message.h
+END

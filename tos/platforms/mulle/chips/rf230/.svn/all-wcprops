@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/chips/rf230
+END
+HplRF230P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/chips/rf230/HplRF230P.nc
+END
+HplRF230C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/chips/rf230/HplRF230C.nc
+END
+RF230SplitControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/chips/rf230/RF230SplitControlP.nc
+END
+RadioConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5636/trunk/tos/platforms/mulle/chips/rf230/RadioConfig.h
+END

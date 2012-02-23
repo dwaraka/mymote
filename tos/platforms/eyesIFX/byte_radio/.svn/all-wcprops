@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4339/trunk/tos/platforms/eyesIFX/byte_radio
+END
+RssiFixedThresholdCMC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3422/trunk/tos/platforms/eyesIFX/byte_radio/RssiFixedThresholdCMC.nc
+END
+manchester.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3831/trunk/tos/platforms/eyesIFX/byte_radio/manchester.h
+END
+UartManchPhyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3833/trunk/tos/platforms/eyesIFX/byte_radio/UartManchPhyP.nc
+END
+UartManchPhyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2977/trunk/tos/platforms/eyesIFX/byte_radio/UartManchPhyC.nc
+END
+Uart4b6bPhyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4142/trunk/tos/platforms/eyesIFX/byte_radio/Uart4b6bPhyP.nc
+END
+Uart4b6bPhyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3831/trunk/tos/platforms/eyesIFX/byte_radio/Uart4b6bPhyC.nc
+END
+RssiFixedThresholdCMP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4339/trunk/tos/platforms/eyesIFX/byte_radio/RssiFixedThresholdCMP.nc
+END
+code4b6b.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3831/trunk/tos/platforms/eyesIFX/byte_radio/code4b6b.h
+END

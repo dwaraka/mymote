@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5199/trunk/tos/chips/sht11
+END
+SensirionSht11.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3194/trunk/tos/chips/sht11/SensirionSht11.h
+END
+HalSht11ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2399/trunk/tos/chips/sht11/HalSht11ControlP.nc
+END
+SensirionSht11LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5199/trunk/tos/chips/sht11/SensirionSht11LogicP.nc
+END
+SensirionSht11.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2977/trunk/tos/chips/sht11/SensirionSht11.nc
+END
+HalSht11Advanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2399/trunk/tos/chips/sht11/HalSht11Advanced.nc
+END
+SensirionSht11ReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3194/trunk/tos/chips/sht11/SensirionSht11ReaderP.nc
+END

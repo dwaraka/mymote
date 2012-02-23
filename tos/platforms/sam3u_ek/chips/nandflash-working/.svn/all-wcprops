@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working
+END
+working.Pnc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working/working.Pnc
+END
+HplNandFlash.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working/HplNandFlash.nc
+END
+HplNandFlashP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working/HplNandFlashP.nc
+END
+HplNandFlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working/HplNandFlashC.nc
+END
+HplNandFlash.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/chips/nandflash-working/HplNandFlash.h
+END

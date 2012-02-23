@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5589/trunk/tos/chips/cortex/m3/sam3/u/twi
+END
+HplSam3uTwiResourceCtrlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiResourceCtrlC.nc
+END
+HplSam3uTwi.nc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwi.nc
+END
+sam3utwihardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/sam3utwihardware.h
+END
+HplSam3uTwiImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5589/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiImplP.nc
+END
+HplSam3uTwiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiC.nc
+END
+Sam3uTwiPDCP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiPDCP.nc
+END
+Sam3uTwiResourceCtrlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5505/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiResourceCtrlP.nc
+END
+Sam3uTwiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiP.nc
+END
+HplSam3uTwiInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiInterrupt.nc
+END
+HplSam3uTwiResourceCtrlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiResourceCtrlP.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5381/trunk/tos/chips/cortex/m3/sam3/u/twi/README
+END
+HplSam3uTwiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/HplSam3uTwiP.nc
+END
+Sam3uTwiResourceCtrlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiResourceCtrlC.nc
+END
+Sam3uTwiConfigure.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiConfigure.nc
+END
+Sam3uTwiInternalAddress.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiInternalAddress.nc
+END
+Sam3uTwiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/twi/Sam3uTwiC.nc
+END

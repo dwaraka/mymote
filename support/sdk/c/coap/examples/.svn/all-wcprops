@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5847/trunk/support/sdk/c/coap/examples
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5847/trunk/support/sdk/c/coap/examples/client.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/examples/Makefile.in
+END
+tiny.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5617/trunk/support/sdk/c/coap/examples/tiny.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5754/trunk/support/sdk/c/coap/examples/server.c
+END

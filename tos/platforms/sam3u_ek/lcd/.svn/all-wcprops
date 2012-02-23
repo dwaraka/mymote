@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5394/trunk/tos/platforms/sam3u_ek/lcd
+END
+Lcd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/Lcd.nc
+END
+LcdP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5394/trunk/tos/platforms/sam3u_ek/lcd/LcdP.nc
+END
+Hx8347.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/Hx8347.nc
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/color.h
+END
+LcdC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/LcdC.nc
+END
+Hx8347C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/Hx8347C.nc
+END
+lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/lcd.h
+END
+font10x14.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/font10x14.h
+END
+Draw.nc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/Draw.nc
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5388/trunk/tos/platforms/sam3u_ek/lcd/font.h
+END

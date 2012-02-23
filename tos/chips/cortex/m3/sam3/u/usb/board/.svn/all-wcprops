@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board
+END
+board_lowlevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board/board_lowlevel.c
+END
+board_lowlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board/board_lowlevel.h
+END
+exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board/exceptions.h
+END
+chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board/chip.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/board/board.h
+END

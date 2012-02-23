@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5732/trunk/tos/platforms/shimmer2
+END
+HplUserButtonC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4693/trunk/tos/platforms/shimmer2/HplUserButtonC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/ActiveMessageC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4693/trunk/tos/platforms/shimmer2/MoteClockC.nc
+END
+ShimmerSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4693/trunk/tos/platforms/shimmer2/ShimmerSerialP.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5016/trunk/tos/platforms/shimmer2/hardware.h
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/PlatformC.nc
+END
+NoLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/NoLedsC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4693/trunk/tos/platforms/shimmer2/PlatformSerialC.nc
+END
+Leds.nc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/Leds.nc
+END
+LedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/LedsC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/PlatformLedsC.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5132/trunk/tos/platforms/shimmer2/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5726/trunk/tos/platforms/shimmer2/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5644/trunk/tos/platforms/shimmer2/PlatformP.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/LedsP.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4693/trunk/tos/platforms/shimmer2/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5135/trunk/tos/platforms/shimmer2/MotePlatformC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5108/trunk/tos/platforms/shimmer2/platform_message.h
+END

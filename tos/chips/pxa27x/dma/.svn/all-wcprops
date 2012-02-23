@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/dma
+END
+HplPXA27xDMACntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/dma/HplPXA27xDMACntl.nc
+END
+HplPXA27xDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/dma/HplPXA27xDMAC.nc
+END
+HplPXA27xDMAChnl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4006/trunk/tos/chips/pxa27x/dma/HplPXA27xDMAChnl.nc
+END
+HalPXA27xDMAChannelM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/dma/HalPXA27xDMAChannelM.nc
+END
+DMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/dma/DMA.h
+END
+HalPXA27xDMAChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/dma/HalPXA27xDMAChannel.nc
+END
+HplPXA27xDMAInfo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/dma/HplPXA27xDMAInfo.nc
+END
+HalPXA27xDMAChannelC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/dma/HalPXA27xDMAChannelC.nc
+END
+HplPXA27xDMAM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/dma/HplPXA27xDMAM.nc
+END
+HplPXA27xDMAInfoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/dma/HplPXA27xDMAInfoC.nc
+END

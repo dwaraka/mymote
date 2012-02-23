@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102
+END
+TMP102InternalP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/TMP102InternalP.nc
+END
+TMP102InternalC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/TMP102InternalC.nc
+END
+HplTMP102LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/HplTMP102LogicP.nc
+END
+TMP102C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/TMP102C.nc
+END
+HplTMP102.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/HplTMP102.nc
+END
+HalTMP102ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/HalTMP102ControlP.nc
+END
+TMP102.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/TMP102.h
+END
+HalTMP102ReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/HalTMP102ReaderP.nc
+END
+HalTMP102Advanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5442/trunk/tos/platforms/z1/chips/tmp102/HalTMP102Advanced.nc
+END

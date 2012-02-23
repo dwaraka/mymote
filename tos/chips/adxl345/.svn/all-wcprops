@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5763/trunk/tos/chips/adxl345
+END
+ADXL345P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5763/trunk/tos/chips/adxl345/ADXL345P.nc
+END
+ADXL345Control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5763/trunk/tos/chips/adxl345/ADXL345Control.nc
+END
+ADXL345C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5763/trunk/tos/chips/adxl345/ADXL345C.nc
+END
+ADXL345.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5692/trunk/tos/chips/adxl345/ADXL345.h
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4051/trunk/tos/chips/pxa27x/timer
+END
+Alarm32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/Alarm32khzC.nc
+END
+HplPXA27xOSTimerWatchdog.nc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HplPXA27xOSTimerWatchdog.nc
+END
+HalPXA27xOSTimerMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HalPXA27xOSTimerMapC.nc
+END
+HplPXA27xRTCM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HplPXA27xRTCM.nc
+END
+HalPXA27xBusyWaitM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HalPXA27xBusyWaitM.nc
+END
+HalPXA27xSleepM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/timer/HalPXA27xSleepM.nc
+END
+AlarmMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/AlarmMilliC.nc
+END
+HplPXA27xPowerM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HplPXA27xPowerM.nc
+END
+HalPXA27xCounterM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HalPXA27xCounterM.nc
+END
+BusyWait32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/BusyWait32khzC.nc
+END
+HalPXA27xWatchdog.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HalPXA27xWatchdog.nc
+END
+HplPXA27xOSTimer.nc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HplPXA27xOSTimer.nc
+END
+HalPXA27xWatchdogC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HalPXA27xWatchdogC.nc
+END
+HplPXA27xOSTimerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HplPXA27xOSTimerC.nc
+END
+Counter32khzC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/Counter32khzC.nc
+END
+BusyWaitMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/BusyWaitMicroC.nc
+END
+HplPXA27xRTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HplPXA27xRTC.nc
+END
+HalPXA27xSleep.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2977/trunk/tos/chips/pxa27x/timer/HalPXA27xSleep.nc
+END
+HalPXA27xAlarmM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HalPXA27xAlarmM.nc
+END
+CounterMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/CounterMilliC.nc
+END
+Counter32khz32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4051/trunk/tos/chips/pxa27x/timer/Counter32khz32C.nc
+END
+HplPXA27xPower.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HplPXA27xPower.nc
+END
+HalPXA27xSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HalPXA27xSleepC.nc
+END
+HalPXA27xWatchdogM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2880/trunk/tos/chips/pxa27x/timer/HalPXA27xWatchdogM.nc
+END
+HplPXA27xOSTimerM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4005/trunk/tos/chips/pxa27x/timer/HplPXA27xOSTimerM.nc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/chips/m16c60
+END
+M16c60UartCounterPlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/chips/m16c60/M16c60UartCounterPlatformC.nc
+END
+M16c60ControlPlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/chips/m16c60/M16c60ControlPlatformC.nc
+END
+M16c60AdcPlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/chips/m16c60/M16c60AdcPlatformP.nc
+END
+M16c60AdcPlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5515/trunk/tos/platforms/mulle/chips/m16c60/M16c60AdcPlatformC.nc
+END

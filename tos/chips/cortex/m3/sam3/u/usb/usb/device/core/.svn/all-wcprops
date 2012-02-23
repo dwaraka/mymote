@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core
+END
+USBDDriverCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriverCallbacks.h
+END
+USBDDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriver.h
+END
+USBDCallbacks_Reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDCallbacks_Reset.c
+END
+USBDDriverDescriptors.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriverDescriptors.h
+END
+USBD_UDPHS.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBD_UDPHS.c
+END
+USBD_OTGHS.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBD_OTGHS.c
+END
+USBD.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBD.h
+END
+USBDCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDCallbacks.h
+END
+USBDCallbacks_Initialized.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDCallbacks_Initialized.c
+END
+USBDDriverCb_IfSettingChanged.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriverCb_IfSettingChanged.c
+END
+USBD_UDP.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBD_UDP.c
+END
+USBDDriverCb_CfgChanged.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriverCb_CfgChanged.c
+END
+USBDDriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5388/trunk/tos/chips/cortex/m3/sam3/u/usb/usb/device/core/USBDDriver.c
+END

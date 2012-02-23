@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5053/trunk/tos/chips/ds2782
+END
+DS2782.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4847/trunk/tos/chips/ds2782/DS2782.h
+END
+HplDS2782LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5053/trunk/tos/chips/ds2782/HplDS2782LogicP.nc
+END
+HplDS2782.nc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4847/trunk/tos/chips/ds2782/HplDS2782.nc
+END
