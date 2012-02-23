@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch
+END
+43-gcc-4.1.2-bug-19087.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/43-gcc-4.1.2-bug-19087.patch
+END
+42-gcc-4.1.2-bug-31137.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/42-gcc-4.1.2-bug-31137.patch
+END
+11-gcc-4.1.2-exec-prefix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/11-gcc-4.1.2-exec-prefix.patch
+END
+30-gcc-4.1.2-binary-constants.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/30-gcc-4.1.2-binary-constants.patch
+END
+50-gcc-4.1.2-newdevices.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/50-gcc-4.1.2-newdevices.patch
+END
+rfa1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/rfa1.patch
+END
+40-gcc-4.1.2-bug-28902.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/40-gcc-4.1.2-bug-28902.patch
+END
+45-gcc-4.1.2-bug-18989.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/45-gcc-4.1.2-bug-18989.patch
+END
+46-gcc-4.1.2-bug-30483.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/46-gcc-4.1.2-bug-30483.patch
+END
+10-gcc-4.1.2-c-incpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/10-gcc-4.1.2-c-incpath.patch
+END
+20-gcc-4.1.2-libiberty-Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/20-gcc-4.1.2-libiberty-Makefile.in.patch
+END
+31-gcc-4.1.2-isr-alias.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/31-gcc-4.1.2-isr-alias.patch
+END
+44-gcc-4.1.2-bug-30289.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/44-gcc-4.1.2-bug-30289.patch
+END
+51-gcc-4.1.2-atmega256x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-gcc/patch/51-gcc-4.1.2-atmega256x.patch
+END

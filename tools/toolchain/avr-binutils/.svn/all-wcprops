@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/debcontrol
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/Makefile
+END

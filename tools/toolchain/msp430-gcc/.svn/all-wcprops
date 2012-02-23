@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-gcc
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-gcc/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-gcc/debcontrol
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-gcc/Makefile
+END

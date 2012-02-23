@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-libc
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-libc/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-libc/debcontrol
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-libc/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-libc/Makefile
+END

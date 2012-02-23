@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch
+END
+rfa1-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/rfa1-size.patch
+END
+50-binutils-2.17-atmega256x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/50-binutils-2.17-atmega256x.patch
+END
+51-binutils-2.17-newdevices.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/51-binutils-2.17-newdevices.patch
+END
+30-binutils-2.17-avr-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/30-binutils-2.17-avr-size.patch
+END
+dollarsign.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/dollarsign.patch
+END
+makeinfo411.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/makeinfo411.patch
+END
+31-binutils-2.17-avr-coff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/31-binutils-2.17-avr-coff.patch
+END
+rfa1-newdevice.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5788/trunk/tools/toolchain/avr-binutils/patch/rfa1-newdevice.patch
+END

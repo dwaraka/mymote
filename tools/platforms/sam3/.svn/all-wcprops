@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5477/trunk/tools/platforms/sam3
+END
+samba-program.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5477/trunk/tools/platforms/sam3/samba-program.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5477/trunk/tools/platforms/sam3/Makefile.am
+END

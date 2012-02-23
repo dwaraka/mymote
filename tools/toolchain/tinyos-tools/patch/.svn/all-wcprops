@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/patch
+END
+disable_cross_compiler.patch_DISABLED
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/patch/disable_cross_compiler.patch_DISABLED
+END

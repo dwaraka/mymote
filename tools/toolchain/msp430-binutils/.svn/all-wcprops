@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-binutils
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-binutils/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-binutils/debcontrol
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5788/trunk/tools/toolchain/msp430-binutils/Makefile
+END

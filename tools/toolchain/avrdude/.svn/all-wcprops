@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5797/trunk/tools/toolchain/avrdude
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5797/trunk/tools/toolchain/avrdude/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5788/trunk/tools/toolchain/avrdude/debcontrol
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5788/trunk/tools/toolchain/avrdude/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5788/trunk/tools/toolchain/avrdude/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/TODO
+END
+rpm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/rpm.spec
+END
+debcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/debcontrol
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/Makefile
+END
+debpostinst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5812/trunk/tools/toolchain/tinyos-tools/debpostinst
+END
